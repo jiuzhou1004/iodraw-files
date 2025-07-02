@@ -43,8 +43,8 @@
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Losx3ekJ3_UVEtc_3r_6-14" target="Losx3ekJ3_UVEtc_3r_6-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Losx3ekJ3_UVEtc_3r_6-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;全生命周期评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="96.565" y="610" width="148.13" height="30" as="geometry" />
+        <mxCell id="Losx3ekJ3_UVEtc_3r_6-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;LCA全生命周期评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="610" width="154.7" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Losx3ekJ3_UVEtc_3r_6-16" target="Losx3ekJ3_UVEtc_3r_6-20">
           <mxGeometry relative="1" as="geometry" />

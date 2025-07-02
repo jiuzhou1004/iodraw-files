@@ -123,9 +123,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qp8G3jnunOxkMcjqtaFK-1786" value="&lt;font color=&quot;#ffffff&quot;&gt;热力学筛选氧化物核素截留改性剂&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#67AB9F;fontFamily=Helvetica;fontSize=16;fontColor=#000000;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontStyle=1;gradientColor=#71C71B;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="665" y="473.5" width="135" height="46.5" as="geometry" />
+          <mxGeometry x="665" y="473.5" width="145" height="46.5" as="geometry" />
         </mxCell>
-        <mxCell id="qp8G3jnunOxkMcjqtaFK-1789" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;部分缺氧区域产生H&lt;sub style=&quot;font-size: 16px;&quot;&gt;2&lt;/sub&gt;S&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=16;fontColor=#000000;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontStyle=1;gradientColor=#67AB9F;gradientDirection=south;" vertex="1" parent="1">
+        <mxCell id="qp8G3jnunOxkMcjqtaFK-1789" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;动力学发现部分缺氧区域产生H&lt;sub style=&quot;font-size: 16px;&quot;&gt;2&lt;/sub&gt;S&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=16;fontColor=#000000;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontStyle=1;gradientColor=#67AB9F;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="665" y="310" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qp8G3jnunOxkMcjqtaFK-1792" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#82b366;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fillColor=#d5e8d4;gradientColor=#97d077;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1760" target="1753">

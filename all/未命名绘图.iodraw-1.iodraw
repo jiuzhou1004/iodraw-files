@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" compressed="true" version="24.7.17">
   <diagram name="Page-1" id="eG5tvo9UgwHiR6DEYF9L">
-    <mxGraphModel dx="687" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="610" y="130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;动力学三因子分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="390" width="175" height="30" as="geometry" />
+          <mxGeometry x="75" y="399" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Losx3ekJ3_UVEtc_3r_6-9" target="Losx3ekJ3_UVEtc_3r_6-19">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="306.75" y="350" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;确定反应类型特点&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="309.25" y="390" width="170" height="30" as="geometry" />
+          <mxGeometry x="309.25" y="398.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;分析环境影响并确定优化方向&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309.25" y="550" width="165" height="50" as="geometry" />
@@ -75,9 +75,6 @@
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分析结构破坏过程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315.5" y="280" width="152.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Losx3ekJ3_UVEtc_3r_6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.021;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Losx3ekJ3_UVEtc_3r_6-8" target="Losx3ekJ3_UVEtc_3r_6-22">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -38,13 +38,13 @@
           <mxGeometry x="310" y="384" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1754" value="氧化物改性后核素截留率分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=17;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="180" y="480" width="150" height="60" as="geometry" />
+          <mxGeometry x="200" y="480" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1755" value="氧化物改性剂热力学筛选" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=17;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="110" y="380.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="130" y="380.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1756" value="模拟树脂熔盐热力学平衡分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=17;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="170" y="270" width="150" height="60" as="geometry" />
+          <mxGeometry x="210" y="290" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1757" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1763" edge="1">
           <mxGeometry relative="1" as="geometry" />

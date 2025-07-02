@@ -28,7 +28,7 @@
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;红外分析结构破坏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="260" width="151.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Losx3ekJ3_UVEtc_3r_6-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;热力学分析确定反映模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Losx3ekJ3_UVEtc_3r_6-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;热力学建立平衡模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="340" width="216.25" height="30" as="geometry" />
         </mxCell>
       </root>

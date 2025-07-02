@@ -58,8 +58,11 @@
         <mxCell id="1760" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;废盐复用及全生命周期评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;fontFamily=Helvetica;fontSize=17;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="495" y="490" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qp8G3jnunOxkMcjqtaFK-1790" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1761" target="qp8G3jnunOxkMcjqtaFK-1786">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1761" value="全生命周期环境指标" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;fontFamily=Helvetica;fontSize=17;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="570" width="150" height="60" as="geometry" />
+          <mxGeometry x="665" y="575" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1762" value="废盐复用流程建立" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=3;fillColor=#d5e8d4;fontFamily=Helvetica;fontSize=17;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="590" width="150" height="60" as="geometry" />

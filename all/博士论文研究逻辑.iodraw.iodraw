@@ -34,7 +34,7 @@
             <mxPoint x="327.4338624338625" y="448" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1753" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;模拟树脂熔盐氧化过程及氧化物改性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=17;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1753" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;废盐复用及全生命周期评估&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=17;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="384.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1754" value="氧化物改性后核素截留率分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=17;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
@@ -55,7 +55,7 @@
         <mxCell id="1759" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#82b366;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fillColor=#d5e8d4;gradientColor=#97d077;" parent="1" source="1760" target="1761" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1760" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;废盐复用及全生命周期评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#2D7600;strokeWidth=3;fillColor=#71C71B;fontFamily=Helvetica;fontSize=17;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="1760" value="模拟树脂熔盐氧化过程及氧化物改性" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#2D7600;strokeWidth=3;fillColor=#71C71B;fontFamily=Helvetica;fontSize=17;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="495" y="490" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1761" value="全生命周期环境指标" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#2D7600;strokeWidth=3;fillColor=#71C71B;fontFamily=Helvetica;fontSize=17;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
@@ -122,7 +122,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qp8G3jnunOxkMcjqtaFK-1786" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;进行废盐重复利用并&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;维持酸气中和率&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#67AB9F;fontFamily=Helvetica;fontSize=17;fontColor=#000000;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontStyle=1;gradientColor=#1699D3;gradientDirection=south;" vertex="1" parent="1">
+        <mxCell id="qp8G3jnunOxkMcjqtaFK-1786" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 15px;&quot;&gt;进行废盐重复利用&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;维持酸气中和率&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#67AB9F;fontFamily=Helvetica;fontSize=17;fontColor=#000000;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontStyle=1;gradientColor=#1699D3;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="665" y="473.5" width="135" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="qp8G3jnunOxkMcjqtaFK-1788" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;entryX=0.972;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1771" target="1760">

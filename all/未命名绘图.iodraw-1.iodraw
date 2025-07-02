@@ -53,10 +53,10 @@
           <mxGeometry x="495" y="494.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1761" value="全生命周期环境指标" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="645" y="590.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="670" y="584.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1762" value="废盐复用流程建立" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="490" y="650.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="495" y="650.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1763" value="熔盐成分热力学平衡分析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="330" y="590.5" width="150" height="60" as="geometry" />

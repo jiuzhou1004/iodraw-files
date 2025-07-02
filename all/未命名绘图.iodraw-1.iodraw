@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" compressed="true" version="24.7.17">
   <diagram name="Page-1" id="eG5tvo9UgwHiR6DEYF9L">
-    <mxGraphModel dx="996" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,9 +57,6 @@
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;确定熔盐产物及气体产物变化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="445" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Losx3ekJ3_UVEtc_3r_6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Losx3ekJ3_UVEtc_3r_6-26" target="Losx3ekJ3_UVEtc_3r_6-27">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;红外光谱分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86.24999999999999" y="290" width="152.5" height="30" as="geometry" />

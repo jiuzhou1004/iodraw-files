@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="415" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="604" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="300" y="384.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1754" value="全生命周期环境指标" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=17;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="463.5" width="180" height="49.5" as="geometry" />
+          <mxGeometry x="130" y="468.5" width="180" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="1755" value="废盐复用流程建立" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=17;fontColor=#000000;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="120" y="380.5" width="150" height="60" as="geometry" />
@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qp8G3jnunOxkMcjqtaFK-1795" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;建立热力学平衡模型并重复利用&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;废盐&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#67AB9F;fontFamily=Helvetica;fontSize=16;fontColor=#000000;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontStyle=1;gradientColor=#71C71B;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="330" y="473.5" width="145" height="39.5" as="geometry" />
+          <mxGeometry x="330" y="473.5" width="145" height="46.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

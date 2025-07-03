@@ -194,8 +194,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OPoHfftxmVyjcV7fR5OH-7" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;阳离子树脂熔盐氧化体系氧化物改性剂及废盐复用研究&lt;/b&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=35;" vertex="1" parent="1">
-          <mxGeometry x="35" y="110" width="865" height="550" as="geometry" />
+        <mxCell id="OPoHfftxmVyjcV7fR5OH-7" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;阳离子树脂熔盐氧化体系氧化物改性剂及废盐复用研究&lt;/b&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=35;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="110" width="865" height="550" as="geometry">
+            <mxRectangle x="35" y="110" width="40" height="440" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -80,7 +80,7 @@
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" parent="1" source="Losx3ekJ3_UVEtc_3r_6-20" target="Losx3ekJ3_UVEtc_3r_6-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="575" y="405" />
+              <mxPoint x="575" y="447" />
               <mxPoint x="575" y="355" />
             </Array>
           </mxGeometry>
@@ -91,7 +91,7 @@
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;" parent="1" source="Losx3ekJ3_UVEtc_3r_6-22" target="Losx3ekJ3_UVEtc_3r_6-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="545" y="345" />
+              <mxPoint x="545" y="388" />
               <mxPoint x="545" y="245" />
             </Array>
           </mxGeometry>

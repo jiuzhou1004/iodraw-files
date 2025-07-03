@@ -194,8 +194,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OPoHfftxmVyjcV7fR5OH-7" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="110" width="200" height="200" as="geometry" />
+        <mxCell id="OPoHfftxmVyjcV7fR5OH-7" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=35;" vertex="1" parent="1">
+          <mxGeometry x="35" y="110" width="865" height="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

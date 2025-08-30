@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" compressed="true" version="24.7.17">
   <diagram name="Page-1" id="eG5tvo9UgwHiR6DEYF9L">
-    <mxGraphModel dx="92" dy="51" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1423" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,14 +94,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RRq8ONRjwxjao7fmb_Mx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Losx3ekJ3_UVEtc_3r_6-20" target="Losx3ekJ3_UVEtc_3r_6-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="600" y="447" />
-              <mxPoint x="600" y="465" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模拟熔盐产物及气体产物变化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=none;gradientColor=#B3FF66;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="365.87" y="423" width="141.75" height="48" as="geometry" />
         </mxCell>
@@ -160,15 +152,6 @@
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-40" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;LCA全生命周期评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;shadow=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="116.56" y="489" width="176.88" height="35.36" as="geometry" />
-        </mxCell>
-        <mxCell id="Losx3ekJ3_UVEtc_3r_6-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;" parent="1" source="Losx3ekJ3_UVEtc_3r_6-41" target="Losx3ekJ3_UVEtc_3r_6-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="507" />
-              <mxPoint x="580" y="355" />
-              <mxPoint x="660" y="355" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-41" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;分析环境影响并确定优化方向&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=none;gradientColor=#B3FF66;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="364.31" y="481" width="144.88" height="51" as="geometry" />

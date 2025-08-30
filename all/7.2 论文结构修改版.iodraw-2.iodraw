@@ -88,6 +88,11 @@
         <mxCell id="RRq8ONRjwxjao7fmb_Mx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Losx3ekJ3_UVEtc_3r_6-20" target="Losx3ekJ3_UVEtc_3r_6-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RRq8ONRjwxjao7fmb_Mx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Losx3ekJ3_UVEtc_3r_6-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模拟熔盐产物及气体产物变化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=none;gradientColor=#B3FF66;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="365.87" y="423" width="141.75" height="48" as="geometry" />
         </mxCell>
@@ -112,6 +117,9 @@
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;确定截留产物及截留率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=none;gradientColor=#B3FF66;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="342.125" y="605" width="189.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RRq8ONRjwxjao7fmb_Mx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Losx3ekJ3_UVEtc_3r_6-24" target="Losx3ekJ3_UVEtc_3r_6-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;分析酸气中和效果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=none;gradientColor=#B3FF66;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="342.625" y="549" width="188.25" height="34" as="geometry" />

@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OPoHfftxmVyjcV7fR5OH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#000000;gradientColor=#FFFFCC;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="35" y="110" width="865" height="560" as="geometry" />
+          <mxGeometry x="35" y="110" width="815" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;阳离子树脂熔盐氧化体系氧化物改性剂及废盐复用研究&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;shadow=1;sketch=1;curveFitting=1;jiggle=2;glass=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="188" width="40" height="449" as="geometry" />
@@ -68,16 +68,16 @@
           <mxGeometry x="377.56" y="481" width="144.88" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;明确熔盐氧化阶段特点并&lt;b&gt;建立氧化反应模型&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（第三章）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="660" y="210" width="210" height="70" as="geometry" />
+          <mxGeometry x="605" y="210" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;建立废盐复用流程并利用LCA评估环境影响&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（第四章）&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="660" y="323" width="210" height="70" as="geometry" />
+          <mxGeometry x="605" y="323" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;建立酸气中和评估指标并&lt;b&gt;筛选氧化物改性剂&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（第五章）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="660" y="437" width="210" height="70" as="geometry" />
+          <mxGeometry x="605" y="437" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分析含Cs、Sr模拟树脂并&lt;b&gt;筛选氧化物改性剂&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（第六章）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="660" y="550" width="210" height="70" as="geometry" />
+          <mxGeometry x="605" y="550" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -68,16 +68,16 @@
           <mxGeometry x="376" y="481" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;明确熔盐氧化阶段特点并建立氧化反应模型&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（第三章）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="605" y="210" width="240" height="70" as="geometry" />
+          <mxGeometry x="590" y="210" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-43" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;探究MSO工艺废盐复用方案及环境效益&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;（第四章）&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="605" y="323" width="240" height="70" as="geometry" />
+          <mxGeometry x="590" y="323" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;建立酸气中和评估指标并筛选氧化物改性剂&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（第五章）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="605" y="437" width="240" height="70" as="geometry" />
+          <mxGeometry x="590" y="437" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;分析Cs、Sr树脂熔盐氧化过程并&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;筛选氧化物改性剂&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（第六章）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="605" y="550" width="240" height="70" as="geometry" />
+          <mxGeometry x="590" y="550" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

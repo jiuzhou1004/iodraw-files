@@ -14,7 +14,7 @@
           <mxGeometry x="145" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;研究内容&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#E6FFCC;strokeColor=none;gradientColor=#B3FF66;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="423" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Losx3ekJ3_UVEtc_3r_6-6" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;研究目标&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontStyle=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="700" y="130" width="120" height="40" as="geometry" />

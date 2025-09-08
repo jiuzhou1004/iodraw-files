@@ -14,7 +14,7 @@
           <mxGeometry x="98" y="370" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DMNGnhGRBwsVt1lf163S-9" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;核工业放射性有机废物&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="139" width="40" height="280" as="geometry" />
+          <mxGeometry x="40" y="136" width="40" height="280" as="geometry" />
         </mxCell>
         <mxCell id="DMNGnhGRBwsVt1lf163S-12" value="废油、润滑剂、有机溶剂、去污废液、闪烁液等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="211" y="270" width="200" height="55" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="211" y="194" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DMNGnhGRBwsVt1lf163S-14" value="湿废物：废树脂、有机泥浆、活性炭、有机沸石" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="211" y="144" width="200" height="30" as="geometry" />
+          <mxGeometry x="211" y="130" width="199" height="44" as="geometry" />
         </mxCell>
         <mxCell id="DMNGnhGRBwsVt1lf163S-15" value="含氚、碳有机烃类气体" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="211" y="358.75" width="160" height="52.5" as="geometry" />

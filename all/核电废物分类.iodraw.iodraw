@@ -19,10 +19,10 @@
         <mxCell id="DMNGnhGRBwsVt1lf163S-12" value="废油、润滑剂、有机溶剂、去污废液、闪烁液等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#B5D9FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="211" y="270" width="200" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="DMNGnhGRBwsVt1lf163S-13" value="&lt;b&gt;干废物&lt;/b&gt;：防护用品、清洁材料、过滤材料、&lt;span id=&quot;docs-internal-guid-02e9b800-7fff-8aee-246a-a654cf663c16&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; color: rgb(27, 28, 29); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;包装材料、&lt;/span&gt;&lt;/span&gt;密封圈等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#C9A7A5;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="DMNGnhGRBwsVt1lf163S-13" value="&lt;b&gt;干废物&lt;/b&gt;：防护用品、清洁材料、过滤材料、&lt;span id=&quot;docs-internal-guid-02e9b800-7fff-8aee-246a-a654cf663c16&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; color: rgb(27, 28, 29); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;包装材料、&lt;/span&gt;&lt;/span&gt;密封圈等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FCFCFC;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="211" y="194" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DMNGnhGRBwsVt1lf163S-14" value="&lt;b&gt;湿废物&lt;/b&gt;：废树脂、有机泥浆、活性炭、有机沸石等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#6E557A;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="DMNGnhGRBwsVt1lf163S-14" value="&lt;b&gt;湿废物&lt;/b&gt;：废树脂、有机泥浆、活性炭、有机沸石等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#6E557A;gradientColor=#FCFCFC;" vertex="1" parent="1">
           <mxGeometry x="211" y="130" width="199" height="44" as="geometry" />
         </mxCell>
         <mxCell id="DMNGnhGRBwsVt1lf163S-15" value="含氚、碳有机烃类气体" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFD3AD;strokeColor=#d79b00;" vertex="1" parent="1">

@@ -25,6 +25,9 @@
         <mxCell id="DMNGnhGRBwsVt1lf163S-14" value="湿废物：废树脂、有机泥浆" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="210" y="150" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DMNGnhGRBwsVt1lf163S-15" value="含氚、碳有机烃类气体" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="357.5" width="160" height="52.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

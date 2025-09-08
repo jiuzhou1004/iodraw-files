@@ -16,6 +16,9 @@
         <mxCell id="DMNGnhGRBwsVt1lf163S-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DMNGnhGRBwsVt1lf163S-9" target="DMNGnhGRBwsVt1lf163S-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DMNGnhGRBwsVt1lf163S-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DMNGnhGRBwsVt1lf163S-9" target="DMNGnhGRBwsVt1lf163S-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DMNGnhGRBwsVt1lf163S-9" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;核工业放射性有机废物&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="39" y="139" width="40" height="280" as="geometry" />
         </mxCell>

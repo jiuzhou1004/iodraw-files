@@ -1,6 +1,6 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="e7w95VpEiobMjtwrgNMj">
-    <mxGraphModel dx="830" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="DMNGnhGRBwsVt1lf163S-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;液体废物&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="98" y="278.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x9zZRa_Z7-d9GyzSj4KK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="DMNGnhGRBwsVt1lf163S-7" target="DMNGnhGRBwsVt1lf163S-15">
+        <mxCell id="x9zZRa_Z7-d9GyzSj4KK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;strokeWidth=2;" parent="1" source="DMNGnhGRBwsVt1lf163S-7" target="DMNGnhGRBwsVt1lf163S-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DMNGnhGRBwsVt1lf163S-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;气体废物&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -31,10 +31,43 @@
         <mxCell id="DMNGnhGRBwsVt1lf163S-15" value="含氚、碳有机烃类气体" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFD3AD;strokeColor=#d79b00;gradientColor=#FCFCFC;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="220" y="358.75" width="160" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="x9zZRa_Z7-d9GyzSj4KK-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="x9zZRa_Z7-d9GyzSj4KK-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="188" y="150" width="32" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="x9zZRa_Z7-d9GyzSj4KK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="DMNGnhGRBwsVt1lf163S-6" target="DMNGnhGRBwsVt1lf163S-12">
+        <mxCell id="x9zZRa_Z7-d9GyzSj4KK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" parent="1" source="DMNGnhGRBwsVt1lf163S-6" target="DMNGnhGRBwsVt1lf163S-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZJBiKUO-jkf8e2_b-gm-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;固体废物&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="108" y="184" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZJBiKUO-jkf8e2_b-gm-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;液体废物&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="108" y="288.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZJBiKUO-jkf8e2_b-gm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="RZJBiKUO-jkf8e2_b-gm-4" target="RZJBiKUO-jkf8e2_b-gm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RZJBiKUO-jkf8e2_b-gm-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;气体废物&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="108" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RZJBiKUO-jkf8e2_b-gm-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;核工业放射性有机废物&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="146" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RZJBiKUO-jkf8e2_b-gm-6" value="废油、润滑剂、有机溶剂、去污废液、闪烁液等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#B5D9FC;strokeColor=#6c8ebf;gradientColor=#FCFCFC;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="190" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="RZJBiKUO-jkf8e2_b-gm-7" value="&lt;b&gt;干废物&lt;/b&gt;：防护用品、清洁材料、过滤材料、&lt;span id=&quot;docs-internal-guid-02e9b800-7fff-8aee-246a-a654cf663c16&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif; color: rgb(27, 28, 29); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;包装材料、&lt;/span&gt;&lt;/span&gt;密封圈等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#C9A7A5;strokeColor=#9673a6;gradientColor=#FCFCFC;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="230" y="204" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RZJBiKUO-jkf8e2_b-gm-8" value="&lt;b&gt;湿废物&lt;/b&gt;：废树脂、有机泥浆、活性炭、有机沸石等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#6E557A;gradientColor=#FCFCFC;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="199" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="RZJBiKUO-jkf8e2_b-gm-9" value="含氚、碳有机烃类气体" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFD3AD;strokeColor=#d79b00;gradientColor=#FCFCFC;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="230" y="368.75" width="160" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RZJBiKUO-jkf8e2_b-gm-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="160" width="32" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RZJBiKUO-jkf8e2_b-gm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="RZJBiKUO-jkf8e2_b-gm-2" target="RZJBiKUO-jkf8e2_b-gm-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

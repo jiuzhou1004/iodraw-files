@@ -23,7 +23,7 @@
           <mxGeometry x="220" y="270" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DMNGnhGRBwsVt1lf163S-13" value="&lt;b&gt;干废物&lt;/b&gt;：乏燃料包壳、退役金属废料及零件等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#C9A7A5;strokeColor=#9673a6;gradientColor=#FCFCFC;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="220" y="194" width="220" height="50" as="geometry" />
+          <mxGeometry x="220" y="194" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DMNGnhGRBwsVt1lf163S-14" value="&lt;b&gt;湿废物&lt;/b&gt;：无机吸附剂、沉淀泥浆、废弃沸石、硅胶等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#e1d5e7;strokeColor=#6E557A;gradientColor=#FCFCFC;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="220" y="130" width="199" height="44" as="geometry" />

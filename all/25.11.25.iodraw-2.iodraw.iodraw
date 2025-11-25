@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram id="kq9CdH5fJPYLeiPd1aGy" name="第 1 页">
-    <mxGraphModel dx="390" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="100" math="0" shadow="0">
+    <mxGraphModel dx="999" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="50" y="30" width="790" height="210" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-256" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;dashed=1;strokeColor=#00994D;" parent="1" vertex="1">
-          <mxGeometry x="40" y="280" width="800" height="360" as="geometry" />
+          <mxGeometry x="40" y="280" width="800" height="350" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-47" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;dashed=1;strokeColor=#00CCCC;" parent="1" vertex="1">
           <mxGeometry x="50" y="282" width="790" height="280" as="geometry" />
@@ -374,7 +374,7 @@
           <mxGeometry x="570" y="322" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oOUdtuukbQoFmVexhtA3-2" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;HEPA:&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;High-Efficiency Particulate Air&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="49" y="650" width="275.44" height="30" as="geometry" />
+          <mxGeometry x="50" y="635" width="275.44" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kof0C8Gc9zETbVvpvJ44-2" value="&lt;i style=&quot;font-size: 16px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Water consumption: 3.29 L&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;fontColor=#3838a8;" parent="1" vertex="1">
           <mxGeometry x="464.33" y="52" width="245.67" height="20" as="geometry" />

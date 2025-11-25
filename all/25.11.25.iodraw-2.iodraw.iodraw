@@ -260,7 +260,7 @@
         <mxCell id="M0PMjUeCl77Vq_VD94tX-125" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Cooling&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="570" y="486" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-131" value="" style="group;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1" connectable="0">
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-131" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="660" y="476" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-124" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=1;strokeWidth=2;align=center;gradientColor=#B3B3B3;gradientDirection=north;fillColor=#99CCFF;" parent="M0PMjUeCl77Vq_VD94tX-131" vertex="1">
@@ -341,9 +341,6 @@
             <mxPoint x="93" y="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gRqNEWChgFCHTiqOO6xi-18" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Solid waste&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="gRqNEWChgFCHTiqOO6xi-16" vertex="1">
-          <mxGeometry x="-3" width="96" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="oRvfVY5iSm0f8hQ0GK7n-3" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Operator console&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="250" y="125" width="130" height="30" as="geometry" />
         </mxCell>
@@ -408,6 +405,9 @@
         </mxCell>
         <mxCell id="cyfDLouVVBsOcKwqYPec-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Reduce NO&lt;sub&gt;x&lt;/sub&gt; gas emissions by 50.97%&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="334.56" y="580" width="275.44" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gRqNEWChgFCHTiqOO6xi-18" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Solid waste&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="758" y="360" width="96" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

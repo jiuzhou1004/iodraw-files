@@ -390,7 +390,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cyfDLouVVBsOcKwqYPec-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.422;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#80FF00;" edge="1" parent="1" source="cyfDLouVVBsOcKwqYPec-3" target="M0PMjUeCl77Vq_VD94tX-96">
+        <mxCell id="cyfDLouVVBsOcKwqYPec-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.422;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#00CC00;" edge="1" parent="1" source="cyfDLouVVBsOcKwqYPec-3" target="M0PMjUeCl77Vq_VD94tX-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cyfDLouVVBsOcKwqYPec-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Sodium chloride&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
@@ -406,7 +406,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cyfDLouVVBsOcKwqYPec-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Reduce NO&lt;sub&gt;x&lt;/sub&gt; gas emissions by 50.97%&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="cyfDLouVVBsOcKwqYPec-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Reduce NO&lt;sub&gt;x&lt;/sub&gt; gas emissions by 50.97%&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="334.56" y="580" width="275.44" height="30" as="geometry" />
         </mxCell>
       </root>

@@ -390,7 +390,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cyfDLouVVBsOcKwqYPec-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.422;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cyfDLouVVBsOcKwqYPec-3" target="M0PMjUeCl77Vq_VD94tX-96">
+        <mxCell id="cyfDLouVVBsOcKwqYPec-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.422;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="cyfDLouVVBsOcKwqYPec-3" target="M0PMjUeCl77Vq_VD94tX-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cyfDLouVVBsOcKwqYPec-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Sodium chloride&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">

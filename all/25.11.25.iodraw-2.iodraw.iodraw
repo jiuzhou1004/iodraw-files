@@ -263,11 +263,14 @@
         <mxCell id="M0PMjUeCl77Vq_VD94tX-131" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="660" y="476" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-124" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=1;strokeWidth=2;align=center;gradientColor=#B3B3B3;gradientDirection=north;fillColor=#99CCFF;" parent="M0PMjUeCl77Vq_VD94tX-131" vertex="1">
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-124" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=1;strokeWidth=2;align=center;gradientColor=#B3B3B3;gradientDirection=north;fillColor=#CCCC00;" parent="M0PMjUeCl77Vq_VD94tX-131" vertex="1">
           <mxGeometry width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-126" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;0.00386L&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontSize=11;" parent="M0PMjUeCl77Vq_VD94tX-131" vertex="1">
           <mxGeometry x="5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-127" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Spent&lt;br&gt;Salt&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="M0PMjUeCl77Vq_VD94tX-131" vertex="1">
+          <mxGeometry x="5" y="30" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-132" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;3.00kWh&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="340" y="497" width="40" height="20" as="geometry" />
@@ -399,9 +402,6 @@
         </mxCell>
         <mxCell id="cyfDLouVVBsOcKwqYPec-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Reduce NO&lt;sub&gt;x&lt;/sub&gt; gas emissions by 50.97%&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="334.56" y="580" width="275.44" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-127" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Spent&lt;br&gt;Salt&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="730" y="506" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

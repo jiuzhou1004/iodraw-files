@@ -406,6 +406,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cyfDLouVVBsOcKwqYPec-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Reduce No&lt;sub&gt;x&lt;/sub&gt; from&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="334.56" y="580" width="275.44" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

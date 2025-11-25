@@ -275,9 +275,6 @@
         <mxCell id="M0PMjUeCl77Vq_VD94tX-129" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Spent&lt;br&gt;Salt&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="M0PMjUeCl77Vq_VD94tX-131" vertex="1">
           <mxGeometry x="5" y="30" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-130" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Spent&lt;br&gt;Salt&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="M0PMjUeCl77Vq_VD94tX-131" vertex="1">
-          <mxGeometry x="5" y="30" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-132" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;3.00kWh&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="340" y="497" width="40" height="20" as="geometry" />
         </mxCell>

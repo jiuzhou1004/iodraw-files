@@ -112,8 +112,8 @@
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-47" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff3333&quot;&gt;是&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="377" y="405" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mKiQfIZtC2rpwJ8TrGc2-48" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 14px;&quot;&gt;否&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="270" y="547" width="60" height="30" as="geometry" />
+        <mxCell id="mKiQfIZtC2rpwJ8TrGc2-48" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#009900&quot; style=&quot;font-size: 14px;&quot;&gt;否，通过所有判定&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="547" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-50" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff3333&quot;&gt;是&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="400" y="494" width="60" height="30" as="geometry" />

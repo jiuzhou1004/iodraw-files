@@ -55,7 +55,10 @@
           <mxGeometry x="420" y="147.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-16" value="终止循环" style="triangle;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="430" y="157.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="420" y="220" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="mKiQfIZtC2rpwJ8TrGc2-18" value="终止循环" style="triangle;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

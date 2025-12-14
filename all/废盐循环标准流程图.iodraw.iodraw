@@ -35,10 +35,8 @@
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1eWLugB2N-w9XhK1LZid-15" target="1eWLugB2N-w9XhK1LZid-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mKiQfIZtC2rpwJ8TrGc2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1eWLugB2N-w9XhK1LZid-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="309" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="mKiQfIZtC2rpwJ8TrGc2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1eWLugB2N-w9XhK1LZid-15" target="mKiQfIZtC2rpwJ8TrGc2-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1eWLugB2N-w9XhK1LZid-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判定3：废盐体系熔点是否大于600℃&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="210" height="38" as="geometry" />
@@ -83,13 +81,13 @@
           <mxGeometry x="180" y="250" width="210" height="22" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-29" value="终止" style="triangle;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="460" y="209" width="32.5" height="43.33" as="geometry" />
+          <mxGeometry x="460" y="220" width="32.5" height="43.33" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-31" value="终止" style="triangle;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="460" y="143.33" width="32.5" height="43.33" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-32" value="终止" style="triangle;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="460" y="284.67" width="32.5" height="43.33" as="geometry" />
+          <mxGeometry x="460" y="287.33000000000004" width="32.5" height="43.33" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-33" value="终止" style="triangle;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="460" y="380" width="32.5" height="43.33" as="geometry" />

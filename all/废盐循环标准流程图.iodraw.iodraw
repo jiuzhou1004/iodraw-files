@@ -154,7 +154,10 @@
           <mxGeometry x="90" y="297.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-67" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="346.5" width="430" height="112.5" as="geometry" />
+          <mxGeometry x="80" y="345.5" width="430" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mKiQfIZtC2rpwJ8TrGc2-68" value="&lt;b style=&quot;&quot;&gt;二级判定：&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;废盐取样监测&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="384.65999999999997" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

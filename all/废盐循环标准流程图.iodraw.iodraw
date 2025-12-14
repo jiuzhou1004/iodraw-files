@@ -26,7 +26,7 @@
             <mxPoint x="285" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1eWLugB2N-w9XhK1LZid-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定1：尾气排放是否超标&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;搅拌扭矩是否异常&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1eWLugB2N-w9XhK1LZid-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定1：尾气排放是否超标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1eWLugB2N-w9XhK1LZid-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判定2：废盐体系熔点是否大于600℃&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

@@ -12,7 +12,7 @@
         <mxCell id="1eWLugB2N-w9XhK1LZid-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;开始处理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1eWLugB2N-w9XhK1LZid-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1eWLugB2N-w9XhK1LZid-4" target="1eWLugB2N-w9XhK1LZid-7">
+        <mxCell id="1eWLugB2N-w9XhK1LZid-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1eWLugB2N-w9XhK1LZid-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="285" y="210" as="targetPoint" />
           </mxGeometry>
@@ -20,13 +20,11 @@
         <mxCell id="1eWLugB2N-w9XhK1LZid-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;MSO氧化处理&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;（输入：废树脂，碳酸盐原料）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="140" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1eWLugB2N-w9XhK1LZid-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1eWLugB2N-w9XhK1LZid-7">
+        <mxCell id="1eWLugB2N-w9XhK1LZid-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="285" y="310" as="targetPoint" />
+            <mxPoint x="285" y="280" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1eWLugB2N-w9XhK1LZid-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定1：尾气排放是否超标&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;搅拌扭矩是否异常&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="210" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1eWLugB2N-w9XhK1LZid-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定2：熔点是否大于600℃&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="310" width="270" height="40" as="geometry" />
@@ -37,8 +35,8 @@
         <mxCell id="1eWLugB2N-w9XhK1LZid-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定3：熔点是否大于600℃&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="370" width="405" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1eWLugB2N-w9XhK1LZid-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="1eWLugB2N-w9XhK1LZid-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定1：尾气排放是否超标&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;搅拌扭矩是否异常&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="215" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

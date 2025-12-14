@@ -29,11 +29,11 @@
         <mxCell id="1eWLugB2N-w9XhK1LZid-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定1：尾气排放是否超标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="215" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="1eWLugB2N-w9XhK1LZid-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判定2：废盐体系熔点是否大于600℃&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="470" width="140" height="50" as="geometry" />
+        <mxCell id="1eWLugB2N-w9XhK1LZid-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判定3：废盐体系熔点是否大于600℃&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="370" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1eWLugB2N-w9XhK1LZid-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判定3：废盐的α核素比活度是否高于400Bg/g&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="530" width="120" height="60" as="geometry" />
+        <mxCell id="1eWLugB2N-w9XhK1LZid-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判定4：废盐的α核素比活度是否高于400Bg/g&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1eWLugB2N-w9XhK1LZid-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定4：取样废盐在经过稀释至&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;低于10%硫酸盐含量后&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;最终减容比是否高于7&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="700" width="300" height="70" as="geometry" />

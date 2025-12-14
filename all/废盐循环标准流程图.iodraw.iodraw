@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="x6-2Gx5LOEFEbNgqa9hW">
-    <mxGraphModel dx="699" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="999" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,28 +15,23 @@
         <mxCell id="1eWLugB2N-w9XhK1LZid-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;MSO氧化处理&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;（输入：废树脂，碳酸盐原料）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="140" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mKiQfIZtC2rpwJ8TrGc2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="mKiQfIZtC2rpwJ8TrGc2-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="175" y="291" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1eWLugB2N-w9XhK1LZid-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定1：尾气排放是否超标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="217" width="210" height="45" as="geometry" />
+          <mxGeometry x="180" y="218" width="210" height="45" as="geometry" />
         </mxCell>
         <mxCell id="1eWLugB2N-w9XhK1LZid-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判定3：废盐体系熔点是否大于600℃&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="362" width="210" height="50" as="geometry" />
+          <mxGeometry x="180" y="365" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1eWLugB2N-w9XhK1LZid-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判定4：废盐的α核素比活度是否高于400Bg/g&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="431" width="210" height="60" as="geometry" />
+          <mxGeometry x="180" y="435" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1eWLugB2N-w9XhK1LZid-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定4：固化体是否可以在硫酸盐含量低于10wt%和机械强度达到7MPa的前提下&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;最终减容比高于7&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="580" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1eWLugB2N-w9XhK1LZid-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;判定5：&lt;/span&gt;&lt;sup&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;137&lt;/font&gt;&lt;/span&gt;&lt;/sup&gt;&lt;span style=&quot;font-size:10.5pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;lt;br/&amp;gt;宋体;mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ansi-language:&amp;lt;br/&amp;gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Cs&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&amp;lt;br/&amp;gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;或&lt;/span&gt;&lt;sup&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;90&lt;/font&gt;&lt;/span&gt;&lt;/sup&gt;&lt;span style=&quot;font-size:10.5pt;font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;&amp;lt;br/&amp;gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Sr&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:&amp;lt;br/&amp;gt;宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;&amp;lt;br/&amp;gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot;&gt;活度浓度是否高于&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;&amp;lt;br/&amp;gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:&amp;lt;br/&amp;gt;宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:minor-fareast;&amp;lt;br/&amp;gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&amp;lt;br/&amp;gt;mso-bidi-language:AR-SA&quot;&gt;×&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;&amp;lt;br/&amp;gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:&amp;lt;br/&amp;gt;minor-fareast;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:&amp;lt;br/&amp;gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;10&lt;sup style=&quot;font-size: 10px;&quot;&gt;9&lt;/sup&gt;Bq/g&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="500" width="210" height="70" as="geometry" />
+          <mxGeometry x="180" y="505" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定2：&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;搅拌扭矩是否异常&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="322" width="210" height="40" as="geometry" />
+          <mxGeometry x="180" y="295" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

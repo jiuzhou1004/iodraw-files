@@ -153,19 +153,19 @@
           <mxGeometry x="502.5" y="140" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-78" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;停止加料，升温排盐&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502.5" y="190" width="150" height="30" as="geometry" />
+          <mxGeometry x="502.5" y="205" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-79" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;排放废盐&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="503" y="268" width="150" height="30" as="geometry" />
+          <mxGeometry x="503" y="276" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-80" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;冷却破碎&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="503" y="345" width="150" height="30" as="geometry" />
+          <mxGeometry x="503" y="348" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-81" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;固化处理&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="503" y="423" width="150" height="30" as="geometry" />
+          <mxGeometry x="503" y="419" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mKiQfIZtC2rpwJ8TrGc2-82" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;处置场处置&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502.5" y="500" width="150" height="30" as="geometry" />
+          <mxGeometry x="502.5" y="490" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

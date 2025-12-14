@@ -31,6 +31,9 @@
         <mxCell id="1eWLugB2N-w9XhK1LZid-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定2：熔点是否大于600℃&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="310" width="270" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1eWLugB2N-w9XhK1LZid-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;判定2：熔点是否大于600℃&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="270" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

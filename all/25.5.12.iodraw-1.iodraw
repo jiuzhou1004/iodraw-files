@@ -115,8 +115,8 @@
         <mxCell id="M0PMjUeCl77Vq_VD94tX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M0PMjUeCl77Vq_VD94tX-12" target="M0PMjUeCl77Vq_VD94tX-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-24" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;过滤器&lt;br&gt;排风扇&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="402" y="162" width="130" height="30" as="geometry" />
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;除尘过滤器&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="403" y="162" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-32" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;高效&lt;br&gt;过滤器&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="601" y="162" width="50" height="30" as="geometry" />

@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram id="kq9CdH5fJPYLeiPd1aGy" name="第 1 页">
-    <mxGraphModel dx="236" dy="125" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="100" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,7 +30,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-66" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Dust Filter&lt;br&gt;Fan&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-66" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;除尘过滤器&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="310" y="394" width="121.33" height="28" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-3" value="" style="shape=flexArrow;endArrow=classic;html=1;width=29.767441860465116;endSize=6.348837209302326;endWidth=56.565711195240674;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#FFFFFF;gradientDirection=east;" parent="1" edge="1">

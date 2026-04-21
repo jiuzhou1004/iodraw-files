@@ -275,9 +275,6 @@
         <mxCell id="M0PMjUeCl77Vq_VD94tX-129" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Spent&lt;br&gt;Salt&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="M0PMjUeCl77Vq_VD94tX-131" vertex="1">
           <mxGeometry x="5" y="30" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-130" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Spent&lt;br&gt;Salt&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="M0PMjUeCl77Vq_VD94tX-131" vertex="1">
-          <mxGeometry x="5" y="30" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-132" value="&lt;font color=&quot;#ff0000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;i&gt;3.00kWh&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF5C33;" parent="1" vertex="1">
           <mxGeometry x="340" y="497" width="40" height="20" as="geometry" />
         </mxCell>
@@ -318,7 +315,7 @@
         <mxCell id="M0PMjUeCl77Vq_VD94tX-96" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;气体废物&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="753" y="404" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-85" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;0.5L&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;废水&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-85" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;0.5L&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;废液排放&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="220" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-263" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;0.5L&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;废液排放&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">

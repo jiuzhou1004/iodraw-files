@@ -98,7 +98,7 @@
         <mxCell id="M0PMjUeCl77Vq_VD94tX-21" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="510" y="130" width="90" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Water Liquid Condenser&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="M0PMjUeCl77Vq_VD94tX-21" vertex="1">
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;冷凝器&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="M0PMjUeCl77Vq_VD94tX-21" vertex="1">
           <mxGeometry y="30" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#6666FF;" parent="M0PMjUeCl77Vq_VD94tX-21" source="M0PMjUeCl77Vq_VD94tX-12" target="M0PMjUeCl77Vq_VD94tX-12" edge="1">
@@ -109,13 +109,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-20" value="&lt;b&gt;Circulating&lt;br&gt;Water&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="M0PMjUeCl77Vq_VD94tX-21" vertex="1">
-          <mxGeometry x="5" width="80" height="20" as="geometry" />
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-20" value="&lt;b&gt;循环水&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="M0PMjUeCl77Vq_VD94tX-21" vertex="1">
+          <mxGeometry x="5" y="10" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M0PMjUeCl77Vq_VD94tX-12" target="M0PMjUeCl77Vq_VD94tX-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-24" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;Dust Filter&lt;br&gt;Fan&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-24" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;过滤器&lt;br&gt;排风扇&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="402" y="162" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-32" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HEPA&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -403,7 +403,7 @@
           <mxGeometry x="-3" width="96" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRvfVY5iSm0f8hQ0GK7n-3" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;控制台耗能&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="255" y="132" width="130" height="30" as="geometry" />
+          <mxGeometry x="255" y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oRvfVY5iSm0f8hQ0GK7n-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">

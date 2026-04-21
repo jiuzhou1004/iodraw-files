@@ -74,10 +74,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Raw Energy&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;能量输入&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Drying CER&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;干燥废树脂&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="75" y="167" width="96" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="M0PMjUeCl77Vq_VD94tX-6" target="M0PMjUeCl77Vq_VD94tX-10" edge="1">

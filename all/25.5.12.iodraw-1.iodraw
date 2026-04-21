@@ -342,7 +342,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M0PMjUeCl77Vq_VD94tX-268" value="&lt;i style=&quot;font-size: 16px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font color=&quot;#592d00&quot; style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Land use: 15m&lt;sup&gt;2&lt;/sup&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;fontColor=#FF5C33;" parent="1" vertex="1">
+        <mxCell id="M0PMjUeCl77Vq_VD94tX-268" value="&lt;i style=&quot;font-size: 16px&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;font color=&quot;#592d00&quot; style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;占地面积: 15m&lt;sup&gt;2&lt;/sup&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;fontColor=#FF5C33;" parent="1" vertex="1">
           <mxGeometry x="311.33" y="50" width="158.67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="M0PMjUeCl77Vq_VD94tX-273" value="" style="endArrow=classic;html=1;strokeWidth=2;fillColor=#9999FF;gradientColor=#FFFFFF;fontColor=#FF5C33;strokeColor=#003E7D;" parent="1" edge="1">

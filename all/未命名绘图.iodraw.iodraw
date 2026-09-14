@@ -62,7 +62,7 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-13" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;熔盐体系&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;LiCl-KCl-UCl&lt;sub style=&quot;&quot;&gt;3&lt;/sub&gt;(2-5wt.% UCl&lt;sub style=&quot;&quot;&gt;3&lt;/sub&gt;)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="415" y="180" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-17" value="电化学分析测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="340" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

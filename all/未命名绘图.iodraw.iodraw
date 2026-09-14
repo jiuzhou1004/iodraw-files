@@ -65,7 +65,7 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-17" value="电化学分析测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="340" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="354" y="390" width="50" height="100" as="geometry" />
         </mxCell>
       </root>

@@ -95,9 +95,6 @@
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-6" value="确定合适的电位测试区间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="342" y="348" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.454;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_z8XRTu_G6tNLNRJDkwQ-8" target="_z8XRTu_G6tNLNRJDkwQ-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-8" value="&lt;b&gt;取样测试残渣与熔盐中铀\锆含量&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="352" y="398" width="129" height="30" as="geometry" />
         </mxCell>

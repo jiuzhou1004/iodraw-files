@@ -123,7 +123,7 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-47" value="&lt;b&gt;热力学验证&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="489" y="320" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.361;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;shape=arrow;" edge="1" parent="1" source="hZIY7Ii512UDRIdQNu9k-47" target="hZIY7Ii512UDRIdQNu9k-36">
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.361;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="hZIY7Ii512UDRIdQNu9k-47" target="hZIY7Ii512UDRIdQNu9k-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

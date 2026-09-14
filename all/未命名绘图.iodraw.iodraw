@@ -77,9 +77,9 @@
           <mxGeometry x="394" y="291" width="39" height="137" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-20" value="循环伏安&lt;div&gt;CV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="333" y="380" width="21" height="62" as="geometry" />
+          <mxGeometry x="334" y="385" width="21" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-21" value="循环伏安" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-21" value="平方波伏安法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="369" y="380" width="10" height="62" as="geometry" />
         </mxCell>
       </root>

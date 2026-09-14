@@ -163,6 +163,9 @@
         <mxCell id="HssSP1nI-cgUKpLqgSXT-10" value="残渣孔隙率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="220" width="20" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HssSP1nI-cgUKpLqgSXT-11" value="空隙面积分数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342.67" y="230" width="20" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

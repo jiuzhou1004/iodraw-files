@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Fhj6T0y4t4UcAqnnlVk0">
-    <mxGraphModel dx="923" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="633" dy="326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,13 +80,13 @@
           <mxGeometry x="333" y="394" width="21" height="62" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-23" value="线性扫描伏安法&lt;div&gt;LSV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="394" width="21" height="90" as="geometry" />
+          <mxGeometry x="423" y="394" width="21" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-25" value="交流阻抗谱&lt;div&gt;EIS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="468" y="380" width="21" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-26" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="376.75" y="380" width="29.5" height="110" as="geometry" />
+          <mxGeometry x="374" y="380" width="29.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-21" value="平方波伏安法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-26">
           <mxGeometry x="4.25" width="21" height="90" as="geometry" />
@@ -96,9 +96,6 @@
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="406.25" y="500" width="39" height="137" as="geometry" />
-        </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hZIY7Ii512UDRIdQNu9k-21" target="hZIY7Ii512UDRIdQNu9k-20">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -112,10 +112,13 @@
           <mxGeometry y="5" width="116" height="132.05" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-45" value="U-Zr各相相对稳定性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hZIY7Ii512UDRIdQNu9k-39" vertex="1">
-          <mxGeometry x="41" y="46.00000000000006" width="67" height="30" as="geometry" />
+          <mxGeometry x="41" y="53.52000000000005" width="67" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pzEOxIXlACYyZ59Hxd_4-5" value="对比选择性溶解顺序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hZIY7Ii512UDRIdQNu9k-39" vertex="1">
-          <mxGeometry x="41" y="100" width="67" height="30" as="geometry" />
+          <mxGeometry x="41" y="90" width="67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-41" value="U-Zr二元相图&lt;div&gt;平衡组成&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hZIY7Ii512UDRIdQNu9k-39" vertex="1">
+          <mxGeometry x="29.5" y="12" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=42.33;exitDy=107.05;exitPerimeter=0;endArrow=none;endFill=0;entryX=0.563;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -141,9 +144,6 @@
               <mxPoint x="524" y="520" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-41" value="U-Zr二元相图&lt;div&gt;平衡组成&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="479.5" y="371.99999999999994" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jbDIhuZJYUoVT4C6Djx2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.298;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jbDIhuZJYUoVT4C6Djx2-1" target="pzEOxIXlACYyZ59Hxd_4-4">
           <mxGeometry relative="1" as="geometry">

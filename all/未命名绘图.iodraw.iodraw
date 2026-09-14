@@ -80,13 +80,13 @@
           <mxGeometry x="333" y="394" width="21" height="62" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-23" value="线性扫描伏安法&lt;div&gt;LSV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="423" y="394" width="21" height="90" as="geometry" />
+          <mxGeometry x="423" y="380" width="21" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-25" value="交流阻抗谱&lt;div&gt;EIS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="468" y="380" width="21" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-26" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="374" y="380" width="29.5" height="110" as="geometry" />
+          <mxGeometry x="374" y="370" width="29.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-21" value="平方波伏安法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-26">
           <mxGeometry x="4.25" width="21" height="90" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry y="86" width="29.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="406.25" y="500" width="39" height="137" as="geometry" />
+          <mxGeometry x="384" y="428" width="39" height="137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

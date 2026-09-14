@@ -82,16 +82,16 @@
           <mxGeometry x="61" y="-29" width="39" height="137" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-20" value="循环伏安&lt;div&gt;法&lt;br&gt;&lt;div&gt;CV&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="hZIY7Ii512UDRIdQNu9k-32" vertex="1">
-          <mxGeometry y="98" width="21" height="62" as="geometry" />
+          <mxGeometry y="97" width="21" height="62" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-23" value="线性扫描伏安法&lt;div&gt;LSV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="hZIY7Ii512UDRIdQNu9k-32" vertex="1">
-          <mxGeometry x="90" y="70" width="21" height="90" as="geometry" />
+          <mxGeometry x="90" y="69" width="21" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-25" value="交流阻抗谱&lt;div&gt;EIS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="hZIY7Ii512UDRIdQNu9k-32" vertex="1">
-          <mxGeometry x="135" y="70" width="21" height="90" as="geometry" />
+          <mxGeometry x="135" y="69" width="21" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-26" value="" style="group;fontFamily=Times New Roman;" parent="hZIY7Ii512UDRIdQNu9k-32" vertex="1" connectable="0">
-          <mxGeometry x="41" y="50" width="59" height="110" as="geometry" />
+          <mxGeometry x="41" y="49" width="59" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-21" value="平方波伏安法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="hZIY7Ii512UDRIdQNu9k-26" vertex="1">
           <mxGeometry x="4.25" width="21" height="90" as="geometry" />

@@ -44,8 +44,8 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-12" value="参比电极" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-13" value="LiCl-KCl-UCl3（2-5wt.% UCl3）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="413" y="180" width="167" height="30" as="geometry" />
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-13" value="&lt;div&gt;熔盐体系&lt;/div&gt;LiCl-KCl-UCl3（2-5wt.% UCl3）" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413" y="190" width="177" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

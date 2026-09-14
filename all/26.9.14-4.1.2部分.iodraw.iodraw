@@ -75,8 +75,8 @@
         <mxCell id="HssSP1nI-cgUKpLqgSXT-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.61;dx=28.47;notch=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="218.5" width="67.14" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="HssSP1nI-cgUKpLqgSXT-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="150" width="60" height="30" as="geometry" />
+        <mxCell id="HssSP1nI-cgUKpLqgSXT-24" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;+&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383.5" y="227" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

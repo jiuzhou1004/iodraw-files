@@ -102,7 +102,7 @@
         <mxCell id="HssSP1nI-cgUKpLqgSXT-31" value="确定残渣演化与阳极承受电流大小的关系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;container=0;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="614.6199999999999" y="313.25" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HssSP1nI-cgUKpLqgSXT-35" value="富锆多孔残渣层的结构演化规律研究" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="HssSP1nI-cgUKpLqgSXT-35" value="富锆多孔残渣层的结构演化规律研究" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="333" y="308.25" width="247" height="31.75" as="geometry" />
         </mxCell>
       </root>

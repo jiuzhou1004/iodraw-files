@@ -96,8 +96,8 @@
         <mxCell id="HssSP1nI-cgUKpLqgSXT-30" value="明确残渣厚度及孔隙率与阳极钝化对应关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="250" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HssSP1nI-cgUKpLqgSXT-31" value="明确残渣厚度及孔隙率与阳极钝化对应关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="621.62" y="290" width="130" height="40" as="geometry" />
+        <mxCell id="HssSP1nI-cgUKpLqgSXT-31" value="确定残渣演化与阳极承受电流大小的关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619.62" y="290" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

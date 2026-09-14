@@ -41,8 +41,11 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-11" value="工作电极" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="309" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-12" value="对电极" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-12" value="参比电极" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

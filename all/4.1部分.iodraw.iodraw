@@ -75,7 +75,7 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-32" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="290" y="320" width="156" height="242.5" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-17" value="&lt;b&gt;电化学分析测试&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="hZIY7Ii512UDRIdQNu9k-32" vertex="1">
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-17" value="&lt;b&gt;电化学分析测试&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcc99;strokeColor=#36393d;" parent="hZIY7Ii512UDRIdQNu9k-32" vertex="1">
           <mxGeometry x="21" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;fontFamily=Times New Roman;" parent="hZIY7Ii512UDRIdQNu9k-32" vertex="1">
@@ -123,7 +123,7 @@
             <mxPoint x="519.6699999999998" y="365" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-54" value="&lt;b&gt;热力学参考&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-54" value="&lt;b&gt;热力学参考&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="483" y="320" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pzEOxIXlACYyZ59Hxd_4-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;温度：500℃&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

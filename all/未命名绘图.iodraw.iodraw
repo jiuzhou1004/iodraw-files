@@ -88,7 +88,7 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-23" value="线性扫描伏安法&lt;div&gt;LSV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="392" y="394" width="21" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-25" value="交流阻抗谱" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-25" value="交流阻抗谱&lt;div&gt;EIS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="427.5" y="397" width="21" height="90" as="geometry" />
         </mxCell>
       </root>

@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HssSP1nI-cgUKpLqgSXT-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="197" width="80" height="93" as="geometry" />
+        </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="hZIY7Ii512UDRIdQNu9k-1" target="hZIY7Ii512UDRIdQNu9k-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="734.2413793103449" y="100" as="targetPoint" />
@@ -177,9 +180,6 @@
         </mxCell>
         <mxCell id="HssSP1nI-cgUKpLqgSXT-16" value="连通孔尺寸" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="484.92" y="220" width="20" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HssSP1nI-cgUKpLqgSXT-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="197" width="80" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

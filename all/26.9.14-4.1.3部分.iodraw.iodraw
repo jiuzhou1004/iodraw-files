@@ -103,11 +103,11 @@
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-11" value="不同电位控制方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="450" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-12" value="阳极残渣截面分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="447.5" width="20" height="125" as="geometry" />
+        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-12" value="高阳极电位限制锆溶出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="447.5" width="20" height="152.5" as="geometry" />
         </mxCell>
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-13" value="阳极残渣截面分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="457.5" width="20" height="125" as="geometry" />
+          <mxGeometry x="450" y="447.5" width="20" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -127,8 +127,16 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-41" value="U-Zr二元相图&lt;div&gt;平衡组成&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="479.5" y="371.99999999999994" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HssSP1nI-cgUKpLqgSXT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HssSP1nI-cgUKpLqgSXT-1" target="HssSP1nI-cgUKpLqgSXT-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410.344827586207" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HssSP1nI-cgUKpLqgSXT-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;控制电化学参数&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="380" y="70" width="120" height="30" as="geometry" />
+          <mxGeometry x="350" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HssSP1nI-cgUKpLqgSXT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350.34" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

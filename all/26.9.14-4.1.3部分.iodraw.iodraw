@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Fhj6T0y4t4UcAqnnlVk0">
-    <mxGraphModel dx="522" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="145" dy="158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,11 @@
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_z8XRTu_G6tNLNRJDkwQ-6" target="_z8XRTu_G6tNLNRJDkwQ-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="416.8571428571428" y="388" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="368" />
+              <mxPoint x="410" y="388" />
+              <mxPoint x="417" y="388" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-6" value="确定合适的电位测试区间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -99,7 +104,7 @@
           <mxGeometry x="352" y="398" width="129" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-9" value="ICP-MS/OES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="406" y="368" width="100" height="30" as="geometry" />
+          <mxGeometry x="432" y="368" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-17" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="342" y="448" width="160" height="160" as="geometry" />

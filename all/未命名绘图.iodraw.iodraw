@@ -17,13 +17,24 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hZIY7Ii512UDRIdQNu9k-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="220" />
+              <mxPoint x="510" y="220" />
+              <mxPoint x="510" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;三电极电化学试验&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="150" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="270" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

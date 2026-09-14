@@ -85,7 +85,7 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-22" value="SWV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355.75" y="467" width="29.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-23" value="平方波伏安法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-23" value="线性扫描伏安法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="394" y="380" width="21" height="90" as="geometry" />
         </mxCell>
       </root>

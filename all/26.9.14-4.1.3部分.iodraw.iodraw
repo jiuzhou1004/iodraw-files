@@ -101,13 +101,13 @@
           <mxGeometry x="403" y="380" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="339" y="490" width="160" height="160" as="geometry" />
+          <mxGeometry x="339" y="460" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#3399FF;" vertex="1" parent="_z8XRTu_G6tNLNRJDkwQ-17">
           <mxGeometry x="-5" y="-3" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-10" value="检测铀溶出速率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_z8XRTu_G6tNLNRJDkwQ-17">
-          <mxGeometry x="43" y="21.25" width="20" height="110" as="geometry" />
+          <mxGeometry x="43" y="20" width="20" height="111.25" as="geometry" />
         </mxCell>
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-11" value="不同电位控制方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_z8XRTu_G6tNLNRJDkwQ-17">
           <mxGeometry y="16.25" width="20" height="120" as="geometry" />

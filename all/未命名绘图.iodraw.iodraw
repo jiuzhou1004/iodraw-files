@@ -76,8 +76,8 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="394" y="291" width="39" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-20" value="循环伏安" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="339" y="380" width="10" height="62" as="geometry" />
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-20" value="循环伏安&lt;div&gt;CV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="333" y="380" width="21" height="62" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-21" value="循环伏安" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="369" y="380" width="10" height="62" as="geometry" />

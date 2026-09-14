@@ -36,7 +36,7 @@
           <mxGeometry x="470" y="260" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-10" value="对电极" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="413" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="408" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-11" value="工作电极" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="309" y="220" width="60" height="30" as="geometry" />

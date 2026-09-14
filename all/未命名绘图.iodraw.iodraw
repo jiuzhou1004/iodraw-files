@@ -105,11 +105,14 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;fontFamily=Times New Roman;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-32">
           <mxGeometry x="61" y="100" width="39" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=3.25;dx=20.75;notch=71.81;arrowHead=7.56;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="454" y="360" width="106" height="117.05" as="geometry" />
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="359.99999999999994" width="106" height="117.05000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-38" value="热力学数据验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="370" width="70" height="35" as="geometry" />
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=3.25;dx=20.75;notch=71.81;arrowHead=7.56;rotation=-180;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-39">
+          <mxGeometry y="5.684341886080802e-14" width="106" height="117.05" as="geometry" />
+        </mxCell>
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-38" value="热力学数据验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-39">
+          <mxGeometry x="35" y="5.684341886080802e-14" width="70" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

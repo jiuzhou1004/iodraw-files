@@ -100,6 +100,9 @@
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-17" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="339" y="450" width="160" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_z8XRTu_G6tNLNRJDkwQ-17">
+          <mxGeometry x="-5" y="-3" width="160" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-10" value="检测铀溶出速率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_z8XRTu_G6tNLNRJDkwQ-17">
           <mxGeometry x="43" y="21.25" width="20" height="110" as="geometry" />
         </mxCell>
@@ -129,9 +132,6 @@
             <mxPoint x="21" y="76.14999999999998" as="sourcePoint" />
             <mxPoint x="41" y="76.14999999999998" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_z8XRTu_G6tNLNRJDkwQ-17">
-          <mxGeometry x="-5" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

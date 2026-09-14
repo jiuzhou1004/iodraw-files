@@ -83,8 +83,8 @@
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-2" value="&lt;b&gt;恒电位极化测试&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="415" y="320" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-6" value="确定合适的电位区间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="330" y="360" width="138" height="20" as="geometry" />
+        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-6" value="确定合适的电位测试区间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="339" y="360" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

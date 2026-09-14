@@ -117,6 +117,9 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-44" value="α-U相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-39">
           <mxGeometry x="43" y="30.000000000000057" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-45" value="α-U相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-39">
+          <mxGeometry x="43" y="50.00000000000006" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-38" value="热力学验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="486" y="330" width="70" height="35" as="geometry" />
         </mxCell>

@@ -82,7 +82,7 @@
           <mxGeometry width="90" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="HssSP1nI-cgUKpLqgSXT-25" value="结合微观结构参数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="HssSP1nI-cgUKpLqgSXT-26">
-          <mxGeometry x="3.38" y="2.75" width="56.63" height="30" as="geometry" />
+          <mxGeometry x="150" y="105.75" width="56.63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

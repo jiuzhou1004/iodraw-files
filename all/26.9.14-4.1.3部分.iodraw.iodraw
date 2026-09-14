@@ -83,8 +83,8 @@
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-2" value="&lt;b&gt;恒电位极化测试&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="415" y="320" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutDouble90Arrow;dy1=10;dx1=20;dx2=70;dy2=70;arrowHead=10;" vertex="1" parent="1">
-          <mxGeometry x="320" y="380" width="100" height="100" as="geometry" />
+        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=10;dx=20;notch=60;arrowHead=10;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

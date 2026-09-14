@@ -75,7 +75,7 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-32" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="290" y="320" width="156" height="242.5" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-17" value="&lt;b&gt;电化学分析测试&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcc99;strokeColor=#36393d;" parent="hZIY7Ii512UDRIdQNu9k-32" vertex="1">
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-17" value="&lt;b&gt;电化学曲线分析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcc99;strokeColor=#36393d;" parent="hZIY7Ii512UDRIdQNu9k-32" vertex="1">
           <mxGeometry x="21" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;fontFamily=Times New Roman;" parent="hZIY7Ii512UDRIdQNu9k-32" vertex="1">

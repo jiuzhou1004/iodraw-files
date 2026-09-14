@@ -109,6 +109,12 @@
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-13" value="阳极残渣截面分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="447.5" width="20" height="125" as="geometry" />
         </mxCell>
+        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.012;entryY=0.279;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_z8XRTu_G6tNLNRJDkwQ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="490" as="sourcePoint" />
+            <mxPoint x="410" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

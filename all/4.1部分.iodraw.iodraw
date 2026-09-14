@@ -111,9 +111,6 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-41" value="U-Zr二元相图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hZIY7Ii512UDRIdQNu9k-39" vertex="1">
           <mxGeometry x="28" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-44" value="α-U相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hZIY7Ii512UDRIdQNu9k-39" vertex="1">
-          <mxGeometry x="43" y="35.00000000000006" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-45" value="δ-UZr&lt;sub&gt;2&lt;/sub&gt;相" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hZIY7Ii512UDRIdQNu9k-39" vertex="1">
           <mxGeometry x="43" y="63.00000000000006" width="60" height="30" as="geometry" />
         </mxCell>

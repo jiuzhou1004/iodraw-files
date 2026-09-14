@@ -79,17 +79,20 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-20" value="循环伏安&lt;div&gt;法&lt;br&gt;&lt;div&gt;CV&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="333" y="394" width="21" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-21" value="平方波伏安法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="21" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-22" value="SWV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="355.75" y="467" width="29.5" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-23" value="线性扫描伏安法&lt;div&gt;LSV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="392" y="394" width="21" height="90" as="geometry" />
+          <mxGeometry x="415" y="394" width="21" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-25" value="交流阻抗谱&lt;div&gt;EIS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427.5" y="397" width="21" height="90" as="geometry" />
+          <mxGeometry x="468" y="380" width="21" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="368.75" y="380" width="29.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-21" value="平方波伏安法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-26">
+          <mxGeometry x="4.25" width="21" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-22" value="SWV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-26">
+          <mxGeometry y="90" width="29.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

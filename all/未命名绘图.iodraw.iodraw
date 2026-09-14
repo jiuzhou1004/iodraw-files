@@ -105,8 +105,8 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;fontFamily=Times New Roman;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-32">
           <mxGeometry x="61" y="100" width="39" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=5.54;dx=15.47;notch=71.81;arrowHead=9.49;rotation=-181;" vertex="1" parent="1">
-          <mxGeometry x="454" y="372.95" width="106" height="82.1" as="geometry" />
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=3.25;dx=20.75;notch=71.81;arrowHead=7.56;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340" width="106" height="82.1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

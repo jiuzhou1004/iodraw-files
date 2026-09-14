@@ -99,9 +99,6 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-22" value="SWV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="hZIY7Ii512UDRIdQNu9k-26" vertex="1">
           <mxGeometry y="86" width="29.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jbDIhuZJYUoVT4C6Djx2-1" value="确定阳极溶解电位区间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-26">
-          <mxGeometry x="-30.5" y="107" width="140.5" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;fontFamily=Times New Roman;" parent="hZIY7Ii512UDRIdQNu9k-32" vertex="1">
           <mxGeometry x="63.25" y="137.75" width="34.5" height="137" as="geometry" />
         </mxCell>
@@ -144,6 +141,9 @@
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-41" value="U-Zr二元相图&lt;div&gt;平衡组成&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="479.5" y="371.99999999999994" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jbDIhuZJYUoVT4C6Djx2-1" value="确定阳极溶解电位区间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="540" width="140.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

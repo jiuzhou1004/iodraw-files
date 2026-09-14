@@ -135,8 +135,8 @@
         <mxCell id="HssSP1nI-cgUKpLqgSXT-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;控制电化学参数&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="350" y="50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HssSP1nI-cgUKpLqgSXT-3" value="不同电解深度阳极样品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="339.67" y="110" width="139.83" height="30" as="geometry" />
+        <mxCell id="HssSP1nI-cgUKpLqgSXT-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;不同电解深度阳极样品&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="339.67" y="100" width="139.83" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

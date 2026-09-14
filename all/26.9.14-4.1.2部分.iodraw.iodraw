@@ -176,7 +176,10 @@
           <mxGeometry x="459.92" y="212.5" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HssSP1nI-cgUKpLqgSXT-16" value="连通孔尺寸" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="484.92" y="212.5" width="20" height="30" as="geometry" />
+          <mxGeometry x="484.92" y="220" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HssSP1nI-cgUKpLqgSXT-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

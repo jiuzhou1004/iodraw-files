@@ -108,8 +108,8 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-39" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="450" y="359.99999999999994" width="120" height="117.05000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=3.25;dx=20.75;notch=71.81;arrowHead=7.56;rotation=-180;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-39">
-          <mxGeometry y="7.05" width="106" height="110" as="geometry" />
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=3.25;dx=20.75;notch=84.66;arrowHead=7.56;rotation=-180;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-39">
+          <mxGeometry y="5" width="116" height="107.05" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-41" value="U-Zr二元相图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-39">
           <mxGeometry x="30" width="90" height="30" as="geometry" />

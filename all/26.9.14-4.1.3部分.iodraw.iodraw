@@ -97,8 +97,8 @@
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-9" value="ICP-MS/OES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="403" y="380" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-10" value="检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="369" y="450" width="20" height="100" as="geometry" />
+        <mxCell id="_z8XRTu_G6tNLNRJDkwQ-10" value="检测铀溶出速率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="455" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_z8XRTu_G6tNLNRJDkwQ-11" value="不同电位控制方式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="450" width="20" height="120" as="geometry" />

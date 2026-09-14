@@ -170,12 +170,12 @@
           <mxGeometry x="370" y="212" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HssSP1nI-cgUKpLqgSXT-14" value="残渣孔隙率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="434.92" y="220.5" width="20" height="30" as="geometry" />
+          <mxGeometry x="434.92" y="220" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HssSP1nI-cgUKpLqgSXT-15" value="孔径分布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="459.92" y="227.5" width="20" height="30" as="geometry" />
+          <mxGeometry x="459.92" y="212.5" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HssSP1nI-cgUKpLqgSXT-16" value="等效孔径" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HssSP1nI-cgUKpLqgSXT-16" value="微观重构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="484.92" y="212.5" width="20" height="30" as="geometry" />
         </mxCell>
       </root>

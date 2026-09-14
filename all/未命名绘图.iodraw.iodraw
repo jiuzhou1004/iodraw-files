@@ -111,7 +111,7 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-36" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutArrow;dy=3.25;dx=20.75;notch=71.81;arrowHead=7.56;rotation=-180;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-39">
           <mxGeometry y="5.684341886080802e-14" width="106" height="117.05" as="geometry" />
         </mxCell>
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-39">
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-41" value="U-Zr二元相图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hZIY7Ii512UDRIdQNu9k-39">
           <mxGeometry x="30" y="5.684341886080802e-14" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-38" value="热力学验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

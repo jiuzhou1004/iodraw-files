@@ -77,6 +77,11 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-52" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;软硬件全流程闭环测试&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="673" y="280" width="148" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SENayKgU_LFa_miVkuU0-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="747.2758620689656" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-53" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;记录长时间运行下的控制误差与响应延迟&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="678.5" y="326" width="137" height="40" as="geometry" />
         </mxCell>
@@ -132,16 +137,8 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;检验保护功能&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="477" y="440" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-68">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="534.1904761904761" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-68" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;协同控制系统整体验证与考核&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="472.75" y="480" width="122.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-71" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;电解精炼协同控制智能系统开发&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FFF4BD;strokeColor=#d79b00;gradientColor=#FFDB63;" vertex="1" parent="1">
-          <mxGeometry x="310" y="130" width="430" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

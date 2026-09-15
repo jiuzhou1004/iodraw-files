@@ -129,8 +129,8 @@
         <mxCell id="QcULzz9dhnA0sgoNxnwn-27" value="不同电位、电流密度、温度、UCl3浓度实验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="260" y="530" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QcULzz9dhnA0sgoNxnwn-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-28" value="EBSD测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="570" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

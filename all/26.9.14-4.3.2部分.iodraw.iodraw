@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-12" value="枝晶形貌与杂志夹带特征" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="449.5" y="240" width="80.5" height="20" as="geometry" />
+          <mxGeometry x="454.25" y="240" width="80.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;改变电流密度与沉积时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="449.5" y="272" width="90" height="28" as="geometry" />

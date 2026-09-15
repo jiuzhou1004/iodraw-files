@@ -63,10 +63,10 @@
         <mxCell id="iqMea_p2Fu4EMRomYo08-9" value="固定电解参数" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="265" y="310" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-10" value="固定电解参数" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="iqMea_p2Fu4EMRomYo08-10" value="改变阴极形状" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="265" y="340" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-11" value="固定电解参数" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="iqMea_p2Fu4EMRomYo08-11" value="改变电场分布" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="265" y="370" width="90" height="20" as="geometry" />
         </mxCell>
       </root>

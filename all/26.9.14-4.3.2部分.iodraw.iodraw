@@ -4,15 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SENayKgU_LFa_miVkuU0-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="398.63" y="230.63" width="22.75" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;协同控制智能系统开发&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FFF4BD;strokeColor=#d79b00;gradientColor=#FFDB63;" parent="1" vertex="1">
           <mxGeometry x="275.38" y="120" width="354.62" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s41WXMUPLXUgxwe3cWYC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s41WXMUPLXUgxwe3cWYC-5" target="iqMea_p2Fu4EMRomYo08-9" edge="1">
+        <mxCell id="s41WXMUPLXUgxwe3cWYC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s41WXMUPLXUgxwe3cWYC-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310.0344827586207" y="240" as="targetPoint" />
+            <mxPoint x="324.5" y="240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="414" y="220" />
               <mxPoint x="325" y="220" />
@@ -20,112 +17,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s41WXMUPLXUgxwe3cWYC-5" target="iqMea_p2Fu4EMRomYo08-12" edge="1">
+        <mxCell id="iqMea_p2Fu4EMRomYo08-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s41WXMUPLXUgxwe3cWYC-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="414" y="220" />
               <mxPoint x="495" y="220" />
               <mxPoint x="495" y="240" />
             </Array>
-            <mxPoint x="514" y="240" as="targetPoint" />
+            <mxPoint x="494.5" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-5" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;参比电极实时检测E&lt;sub&gt;a&lt;/sub&gt;与E&lt;sub&gt;c&lt;/sub&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="319" y="180" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontStyle=1" parent="1" source="iqMea_p2Fu4EMRomYo08-9" target="iqMea_p2Fu4EMRomYo08-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-9" value="铀溶解与锆溶出规律分析" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;fontSize=10;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="284.25" y="240" width="80.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-10" value="确定阳极电位控制边界" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;fontSize=10;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="269.25" y="285" width="110.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontStyle=1" parent="1" source="iqMea_p2Fu4EMRomYo08-12" target="iqMea_p2Fu4EMRomYo08-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-12" value="枝晶形貌与杂志夹带特征" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="454.25" y="240" width="80.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;确定阴极电位控制边界&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="439.25" y="285" width="110.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;不同E&lt;sub&gt;a&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="271" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;不同E&lt;sub&gt;c&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="486.5" y="210" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-5" value="持续检测&lt;b style=&quot;&quot;&gt;E&lt;sub&gt;a&lt;/sub&gt;与E&lt;sub&gt;c&lt;/sub&gt;&lt;/b&gt;并判断" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontStyle=1;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="354" y="327" width="110.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="SENayKgU_LFa_miVkuU0-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305.7844827586207" y="377" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="409.75" y="357" />
-              <mxPoint x="320.75" y="357" />
-              <mxPoint x="320.75" y="377" />
-            </Array>
-            <mxPoint x="409.75" y="347" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="SENayKgU_LFa_miVkuU0-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="409.75" y="357" />
-              <mxPoint x="490.75" y="357" />
-              <mxPoint x="490.75" y="377" />
-            </Array>
-            <mxPoint x="409.75" y="347" as="sourcePoint" />
-            <mxPoint x="509.75" y="377" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontStyle=1" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-9" target="SENayKgU_LFa_miVkuU0-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-9" value="转入阳极电位控制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;fontSize=10;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="275.25" y="377" width="90" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-10" value="1.避免 锆过度溶出&lt;div&gt;2.避免 阳极钝化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;fontSize=10;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="265" y="422" width="110.5" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-12" target="SENayKgU_LFa_miVkuU0-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-12" value="转入阴极电位控制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="445.25" y="377" width="90" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1.引入反向脉冲、调整脉冲参数&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2.反向溶解去除枝晶尖端&lt;/font&gt;&lt;/div&gt;&lt;div&gt;3.抑制枝晶过快生长&lt;/div&gt;&lt;div&gt;4.抑制杂质进入产物&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;fontStyle=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="417.25" y="414" width="142.75" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-14" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;若&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;E&lt;sub&gt;a&lt;/sub&gt;&lt;/b&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;接近临界&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="323" y="351" width="71" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-16" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;若&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;E&lt;sub&gt;c&lt;/sub&gt;&lt;/b&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;接近临界&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="421.38" y="351" width="71" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-20" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#B9E0A5;dashed=1;strokeColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="275.25" y="480" width="274.75" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-21" value="算法优化循环与协同调控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="333.5" y="483" width="140" height="14" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-22" target="SENayKgU_LFa_miVkuU0-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-22" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;结合实验数据与数值计算&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="281.25" y="498.5" width="68.75" height="31.5" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-23" target="SENayKgU_LFa_miVkuU0-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-23" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;不同模式/切换条件下产物杂质与锆溶出评估&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="375" y="498.5" width="94.75" height="31.5" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-24" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;算法规则更新与迭代优化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="490" y="498.5" width="56.5" height="31.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

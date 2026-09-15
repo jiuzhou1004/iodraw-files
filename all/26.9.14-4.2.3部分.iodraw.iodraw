@@ -51,7 +51,7 @@
           <mxGeometry x="364" y="318" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="403.5" y="228" width="19" height="180" as="geometry" />
+          <mxGeometry x="403.5" y="200" width="19" height="180" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="iqMea_p2Fu4EMRomYo08-9" target="iqMea_p2Fu4EMRomYo08-10" edge="1">
           <mxGeometry relative="1" as="geometry" />

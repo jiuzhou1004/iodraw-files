@@ -56,15 +56,6 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-39" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;多功能模块定义与开发&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="542" y="224" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.541;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-37" target="SENayKgU_LFa_miVkuU0-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="534" y="210" />
-              <mxPoint x="602" y="210" />
-              <mxPoint x="602" y="224" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-42" target="SENayKgU_LFa_miVkuU0-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -95,7 +86,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Python与LabVIEW混合编程架构&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="SENayKgU_LFa_miVkuU0-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;单电极独立控制&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="400" y="354" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;多功能模块定义与开发&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -108,6 +99,14 @@
               <mxPoint x="534" y="340" />
               <mxPoint x="602" y="340" />
               <mxPoint x="602" y="354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SENayKgU_LFa_miVkuU0-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.524;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-37" target="SENayKgU_LFa_miVkuU0-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="534" y="210" />
+              <mxPoint x="600" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>

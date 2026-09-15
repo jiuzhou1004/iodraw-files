@@ -94,7 +94,7 @@
         <mxCell id="QcULzz9dhnA0sgoNxnwn-12" value="阴极形状设计" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="440" y="310" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QcULzz9dhnA0sgoNxnwn-14" value="COMSOL Multiphysics模拟" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-14" value="COMSOL Multiphysics模拟" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="434.95" y="350" width="110.1" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -103,7 +103,7 @@
             <mxPoint x="487.5" y="422" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QcULzz9dhnA0sgoNxnwn-17" value="枝晶生长形态表征分析" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-17" value="枝晶生长形态表征分析" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="422.5" y="442" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-19" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;模拟阴极表面电流密度和电场分布&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;考虑边缘，尖端，表面粗糙度局部电流集中&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

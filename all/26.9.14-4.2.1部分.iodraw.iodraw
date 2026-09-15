@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Fhj6T0y4t4UcAqnnlVk0">
-    <mxGraphModel dx="369" dy="190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="443" dy="228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="234.9310344827586" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="235" y="560" />
+              <mxPoint x="235" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -127,7 +127,7 @@
           <mxGeometry x="240" y="490" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-27" value="不同电位、电流密度、温度、UCl3浓度实验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="250" y="540" width="240" height="20" as="geometry" />
+          <mxGeometry x="260" y="530" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

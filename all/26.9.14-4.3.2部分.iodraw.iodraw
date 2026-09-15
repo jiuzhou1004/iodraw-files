@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-10" value="确定阳极电位控制边界" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="279.5" y="280" width="70.5" height="20" as="geometry" />
+          <mxGeometry x="279.5" y="280" width="110.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-11" value="改变电场分布" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="279.5" y="320" width="90" height="20" as="geometry" />

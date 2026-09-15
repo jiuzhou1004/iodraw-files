@@ -53,8 +53,8 @@
         <mxCell id="iqMea_p2Fu4EMRomYo08-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="403.5" y="200" width="19" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-9" value="固定电解参数" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="280" y="348" width="90" height="20" as="geometry" />
+        <mxCell id="iqMea_p2Fu4EMRomYo08-9" value="正向脉冲阶段促进铀沉积:温和电流密度或引入间歇沉积降低阴极表面扩散层铀离子耗竭减少枝晶尖端优先生长" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="280" y="348" width="130" height="62" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" parent="1" target="iqMea_p2Fu4EMRomYo08-11" edge="1">
           <mxGeometry relative="1" as="geometry">

@@ -143,8 +143,8 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-73" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;系统连续长时间电解性能验证：&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1.连续电解过程信号稳定性&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2.系统响应能力&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.自适应控制输出稳定性&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="642" y="400" width="200" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-74" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;系统连续长时间电解性能验证：&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1.连续电解过程信号稳定性&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2.系统响应能力&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.自适应控制输出稳定性&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="131" y="354" width="200" height="83" as="geometry" />
+        <mxCell id="SENayKgU_LFa_miVkuU0-75" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;软件开发模块化设计&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="192" y="294" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

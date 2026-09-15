@@ -102,6 +102,9 @@
         <mxCell id="QcULzz9dhnA0sgoNxnwn-17" value="枝晶生长形态表征分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="422.5" y="460" width="130" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-18" value="&lt;ul style=&quot;forced-color-adjust: none; orphans: 2; text-align: left; text-indent: 0px; widows: 2; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;模拟阴极表面电流密度和电场分布&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;考虑边缘，尖端，表面粗糙度局部电流集中&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="470" width="166" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

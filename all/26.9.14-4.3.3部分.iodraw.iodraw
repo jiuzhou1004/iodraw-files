@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SENayKgU_LFa_miVkuU0-63" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="255.46" y="204.38" width="19.07" height="139" as="geometry" />
+        </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;电解精炼协同控制智能系统开发&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FFF4BD;strokeColor=#d79b00;gradientColor=#FFDB63;" parent="1" vertex="1">
           <mxGeometry x="300" y="120" width="430" height="30" as="geometry" />
         </mxCell>
@@ -69,7 +72,7 @@
           <mxGeometry x="469" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-51" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;软件开发模块化设计&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="280" width="160" height="30" as="geometry" />
+          <mxGeometry x="182" y="284" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-52" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;软硬件全流程闭环测试&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="673" y="280" width="148" height="30" as="geometry" />
@@ -112,9 +115,6 @@
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-62" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="519.35" y="325.05" width="26.3" height="139" as="geometry" />
-        </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-63" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="255.46" y="206.38" width="19.07" height="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -26,6 +26,11 @@
         <mxCell id="hZIY7Ii512UDRIdQNu9k-1" value="&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;三电极体系电化学分析&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="330" y="150" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hZIY7Ii512UDRIdQNu9k-7" target="QcULzz9dhnA0sgoNxnwn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-7" value="工作阴极基体&lt;div&gt;W、Mo、316L&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="260" y="260" width="100" height="30" as="geometry" />
         </mxCell>
@@ -49,6 +54,9 @@
         </mxCell>
         <mxCell id="pzEOxIXlACYyZ59Hxd_4-1" value="&lt;font&gt;&lt;b&gt;温度：500℃&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="325" y="185" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-2" value="计时电流法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="330" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

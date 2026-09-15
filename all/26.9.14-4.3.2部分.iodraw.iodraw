@@ -143,8 +143,8 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontStyle=1" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-12" target="SENayKgU_LFa_miVkuU0-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-12" value="枝晶形貌与杂志夹带特征" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="450" y="377" width="80.5" height="30" as="geometry" />
+        <mxCell id="SENayKgU_LFa_miVkuU0-12" value="转入阴极电位控制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="445.25" y="377" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;确定阴极电位控制边界&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="435" y="422" width="110.5" height="20" as="geometry" />

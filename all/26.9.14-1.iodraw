@@ -49,11 +49,6 @@
             <mxPoint x="310" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s41WXMUPLXUgxwe3cWYC-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-24" value="对比实验设计" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="364" y="280" width="100" height="20" as="geometry" />
         </mxCell>
@@ -61,13 +56,13 @@
           <mxGeometry x="403.5" y="180" width="19" height="180" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-9" value="固定电解参数" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="265" y="310" width="90" height="20" as="geometry" />
+          <mxGeometry x="280" y="310" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-10" value="改变阴极形状" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="265" y="340" width="90" height="20" as="geometry" />
+          <mxGeometry x="280" y="340" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-11" value="改变电场分布" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="265" y="370" width="90" height="20" as="geometry" />
+          <mxGeometry x="280" y="370" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-12" value="固定电解参数" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="450" y="310" width="90" height="20" as="geometry" />

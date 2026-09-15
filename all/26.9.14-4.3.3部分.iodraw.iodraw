@@ -147,7 +147,10 @@
           <mxGeometry x="159.5" y="324" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-76" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;逐步加入状态监控、预警和脉冲程序功能&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="162.5" y="366" width="177.5" height="30" as="geometry" />
+          <mxGeometry x="176.25" y="366" width="177.5" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="SENayKgU_LFa_miVkuU0-77" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据采样率根据控制周期设定，预留手动/自动切换功能(用于人工干预)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="173.25" y="427" width="177.5" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

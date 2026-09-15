@@ -87,6 +87,9 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-52" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;软硬件全流程闭环测试&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="673" y="280" width="148" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SENayKgU_LFa_miVkuU0-53" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;记录长时间运行下的控制误差与响应延迟&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="673" y="320" width="148" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

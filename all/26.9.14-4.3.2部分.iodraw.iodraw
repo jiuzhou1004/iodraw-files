@@ -155,11 +155,11 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-16" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;若&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;E&lt;sub&gt;c&lt;/sub&gt;&lt;/b&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;接近临界&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="421.38" y="351" width="71" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SENayKgU_LFa_miVkuU0-20" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="275.25" y="480" width="274.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-21" value="算法优化循环与协同调控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="333.5" y="480" width="140" height="14" as="geometry" />
+          <mxGeometry x="333.5" y="483" width="140" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

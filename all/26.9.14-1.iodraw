@@ -36,32 +36,29 @@
           <mxGeometry x="319" y="180" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-8" value="初始熔盐体系" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="260" y="240" width="100" height="30" as="geometry" />
+          <mxGeometry x="260" y="240" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-9" value="氯化物添加剂" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="369" y="240" width="90" height="30" as="geometry" />
+          <mxGeometry x="369" y="240" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-10" value="调整添加剂含量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="469" y="240" width="90" height="30" as="geometry" />
+          <mxGeometry x="469" y="240" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s41WXMUPLXUgxwe3cWYC-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="320" as="targetPoint" />
+            <mxPoint x="310" y="319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s41WXMUPLXUgxwe3cWYC-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="320" as="targetPoint" />
+            <mxPoint x="520" y="319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-24" value="对比实验设计" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="364" y="290" width="100" height="20" as="geometry" />
+          <mxGeometry x="364" y="289" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="403.5" y="190" width="19" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="iqMea_p2Fu4EMRomYo08-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="403.5" y="189" width="19" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

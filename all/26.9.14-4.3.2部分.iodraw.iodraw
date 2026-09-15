@@ -140,9 +140,6 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-10" value="1.避免 锆过度溶出&lt;div&gt;2.避免 阳极钝化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="265" y="422" width="110.5" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontStyle=1" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-12" target="SENayKgU_LFa_miVkuU0-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-12" value="转入阴极电位控制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="445.25" y="377" width="90" height="23" as="geometry" />
         </mxCell>
@@ -154,6 +151,9 @@
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-16" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;若&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;E&lt;sub&gt;c&lt;/sub&gt;&lt;/b&gt;&lt;b style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;接近临界&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="421.38" y="351" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SENayKgU_LFa_miVkuU0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.565;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-12" target="SENayKgU_LFa_miVkuU0-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -76,7 +76,7 @@
           <mxGeometry x="201" y="400" width="198" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-8" value="确立后续阴极形状影响分析基准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="480" width="130" height="40" as="geometry" />
+          <mxGeometry x="235" y="480" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

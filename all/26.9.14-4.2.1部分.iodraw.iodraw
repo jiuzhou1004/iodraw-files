@@ -90,8 +90,8 @@
         <mxCell id="QcULzz9dhnA0sgoNxnwn-14" value="COMSOL Multiphysics模拟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="434.95" y="350" width="110.1" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QcULzz9dhnA0sgoNxnwn-15" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 11px;&quot;&gt;分析瞬时成核与连续成核模式&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 11px;&quot;&gt;研究成核过电位-临界成核半径与电流密度映射关系&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="390" width="205" height="80" as="geometry" />
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-15" value="&lt;ul style=&quot;forced-color-adjust: none; orphans: 2; text-align: left; text-indent: 0px; widows: 2; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;模拟阴极表面电流密度和电场分布&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;考虑边缘，尖端，表面粗糙度局部电流集中&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="380" width="221" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

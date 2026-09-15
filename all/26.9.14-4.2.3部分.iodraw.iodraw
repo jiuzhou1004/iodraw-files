@@ -15,7 +15,7 @@
             <mxPoint x="360" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="414" y="220" />
-              <mxPoint x="310" y="220" />
+              <mxPoint x="330" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -31,10 +31,10 @@
           <mxGeometry x="319" y="180" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-8" value="含多种稀土杂质的&lt;br&gt;LiCl-KCl-UCl&lt;sub&gt;3&lt;/sub&gt;熔盐体系" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="240" y="240" width="130" height="40" as="geometry" />
+          <mxGeometry x="260" y="240" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-10" value="&lt;b&gt;可编程电源配置&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="464.5" y="245" width="90" height="30" as="geometry" />
+          <mxGeometry x="447.25" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s41WXMUPLXUgxwe3cWYC-24" target="iqMea_p2Fu4EMRomYo08-9" edge="1">
           <mxGeometry relative="1" as="geometry">

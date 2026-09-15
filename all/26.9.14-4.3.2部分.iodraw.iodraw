@@ -106,7 +106,7 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;不同E&lt;sub&gt;c&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="486.5" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-5" value="确定阳极电位控制边界" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontStyle=1;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="SENayKgU_LFa_miVkuU0-5" value="持续检测" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontStyle=1;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="354" y="327" width="110.5" height="20" as="geometry" />
         </mxCell>
       </root>

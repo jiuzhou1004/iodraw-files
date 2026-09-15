@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QcULzz9dhnA0sgoNxnwn-15" value="&lt;ul style=&quot;forced-color-adjust: none; orphans: 2; text-align: left; text-indent: 0px; widows: 2; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;模拟阴极表面电流密度和电场分布&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;考虑边缘，尖端，表面粗糙度局部电流集中&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="389" y="372" width="166" height="80" as="geometry" />
+          <mxGeometry x="389" y="364" width="166" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="hZIY7Ii512UDRIdQNu9k-1" target="hZIY7Ii512UDRIdQNu9k-8" edge="1">
           <mxGeometry relative="1" as="geometry">

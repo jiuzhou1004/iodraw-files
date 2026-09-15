@@ -147,7 +147,7 @@
           <mxGeometry x="380.75" y="510" width="66.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-51" value="生长速率与枝晶结构关联" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="469" y="510" width="90" height="20" as="geometry" />
+          <mxGeometry x="469" y="510" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-52" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="403.5" y="480" width="19" height="180" as="geometry" />

@@ -48,7 +48,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-24" value="周期性自动脉冲程序(正沉积-反溶解-弛豫)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="363" y="300" width="117" height="20" as="geometry" />
+          <mxGeometry x="354.5" y="300" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iqMea_p2Fu4EMRomYo08-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="403.5" y="200" width="19" height="180" as="geometry" />

@@ -99,8 +99,8 @@
             <mxPoint x="487.5" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QcULzz9dhnA0sgoNxnwn-17" value="确立后续阴极形状影响分析基准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="460" width="130" height="30" as="geometry" />
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-17" value="枝晶生长形态表征分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="460" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

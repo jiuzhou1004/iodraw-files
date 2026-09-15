@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Fhj6T0y4t4UcAqnnlVk0">
-    <mxGraphModel dx="641" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="442" dy="266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,11 +129,11 @@
             <mxPoint x="532.1034482758621" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;检验保护功能&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="SENayKgU_LFa_miVkuU0-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;检验保护功能&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="477" y="440" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-68" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;协同控制系统整体验证与考核&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="477.5" y="480" width="122.5" height="50" as="geometry" />
+        <mxCell id="SENayKgU_LFa_miVkuU0-68" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;协同控制系统整体验证与考核&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="472.75" y="480" width="122.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

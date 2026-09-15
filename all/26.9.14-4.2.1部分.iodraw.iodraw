@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-1" value="&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;三电极体系电化学分析&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="330" y="150" width="170" height="30" as="geometry" />
+        <mxCell id="hZIY7Ii512UDRIdQNu9k-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;熔盐电还原中阴极形状对铀沉积成核及枝晶生长影响&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="330" y="150" width="410" height="72.35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

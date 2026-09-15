@@ -140,6 +140,9 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-68" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;协同控制系统整体验证与考核&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="472.75" y="480" width="122.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SENayKgU_LFa_miVkuU0-73" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;异常工况模拟&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="691.5" y="397" width="111" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

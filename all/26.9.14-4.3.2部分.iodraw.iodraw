@@ -8,7 +8,7 @@
           <mxGeometry x="398.63" y="230.63" width="22.75" height="170" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;协同控制智能系统开发&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
-          <mxGeometry x="253" y="140" width="322" height="30" as="geometry" />
+          <mxGeometry x="275.38" y="120" width="354.62" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s41WXMUPLXUgxwe3cWYC-5" target="iqMea_p2Fu4EMRomYo08-9" edge="1">
           <mxGeometry relative="1" as="geometry">

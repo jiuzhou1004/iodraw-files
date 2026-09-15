@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Fhj6T0y4t4UcAqnnlVk0">
-    <mxGraphModel dx="442" dy="266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,19 +146,19 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-73" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;系统连续长时间电解性能验证：&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1.连续电解过程信号稳定性&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2.系统响应能力&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.自适应控制输出稳定性&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="642" y="400" width="200" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-75" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;先完成数据采集和信号输出模块&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="SENayKgU_LFa_miVkuU0-75" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;先完成数据采集和信号输出模块&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="159.5" y="331" width="205" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-76" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;逐步加入状态监控、预警和脉冲程序功能&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="SENayKgU_LFa_miVkuU0-76" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;逐步加入状态监控、预警和脉冲程序功能&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="176.25" y="379" width="177.5" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-77" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据采样率根据控制周期设定，预留手动/自动切换功能&lt;br&gt;(用于人工干预)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="SENayKgU_LFa_miVkuU0-77" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span&gt;数据采样率根据控制周期设定，预留手动/自动切换功能&lt;br&gt;(用于人工干预)&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="157.75" y="442" width="206.75" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-75" target="SENayKgU_LFa_miVkuU0-76">
+        <mxCell id="SENayKgU_LFa_miVkuU0-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="SENayKgU_LFa_miVkuU0-75" target="SENayKgU_LFa_miVkuU0-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.518;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SENayKgU_LFa_miVkuU0-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.518;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="262" y="423" as="sourcePoint" />
             <mxPoint x="261.8465" y="441.8739999999999" as="targetPoint" />

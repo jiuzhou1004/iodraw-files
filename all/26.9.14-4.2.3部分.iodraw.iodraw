@@ -97,7 +97,7 @@
         <mxCell id="a9RklwQs3XmvRvlpJHFJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.557;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a9RklwQs3XmvRvlpJHFJ-11" target="a9RklwQs3XmvRvlpJHFJ-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a9RklwQs3XmvRvlpJHFJ-20" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;电解实验并取样测试&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="a9RklwQs3XmvRvlpJHFJ-20" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;实验优化与对应关系建立&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="345" y="540" width="126.5" height="20" as="geometry" />
         </mxCell>
       </root>

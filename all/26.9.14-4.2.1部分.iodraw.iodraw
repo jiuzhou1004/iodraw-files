@@ -106,7 +106,7 @@
           <mxGeometry x="193.5" y="400" width="195.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-21" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;模拟阴极表面电流密度和电场分布&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;考虑边缘，尖端，表面粗糙度局部电流集中&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="383.18" y="500" width="208.63" height="30" as="geometry" />
+          <mxGeometry x="370" y="480" width="211.81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

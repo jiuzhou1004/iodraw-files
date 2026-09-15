@@ -135,7 +135,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-9" value="转入阳极电位控制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;fontSize=10;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="377" width="90" height="30" as="geometry" />
+          <mxGeometry x="275.25" y="377" width="90" height="23" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-10" value="确定阳极电位控制边界" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fad7ac;strokeColor=#b46504;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="265" y="422" width="110.5" height="20" as="geometry" />
@@ -150,7 +150,7 @@
           <mxGeometry x="435" y="422" width="110.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;不同E&lt;sub&gt;a&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="266.75" y="347" width="60" height="30" as="geometry" />
+          <mxGeometry x="268" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;不同E&lt;sub&gt;c&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="482.25" y="347" width="60" height="30" as="geometry" />

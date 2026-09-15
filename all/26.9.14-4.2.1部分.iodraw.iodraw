@@ -150,8 +150,8 @@
         <mxCell id="QcULzz9dhnA0sgoNxnwn-34" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;分析还原产物微观晶体结构&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;判断择优生长晶向&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;选择典型枝晶部位扫描&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="610" width="181" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QcULzz9dhnA0sgoNxnwn-35" value="&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;三电极体系电化学分析&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="340" y="160" width="170" height="30" as="geometry" />
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;建立电解参数、晶粒生长取向与枝晶形态之间的对应关系，确立诱导致密平整沉积的较优工艺窗口&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="289" y="654.5" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

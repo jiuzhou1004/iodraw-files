@@ -115,7 +115,7 @@
         <mxCell id="QcULzz9dhnA0sgoNxnwn-21" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;模拟阴极表面电流密度和电场分布&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;考虑边缘，尖端，表面粗糙度局部电流集中&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="480" width="211.81" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QcULzz9dhnA0sgoNxnwn-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;分支萌生位置与局部电流密度关系&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-23" value="&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;分支萌生位置与局部电流密度关系&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="153" height="30" as="geometry" />
         </mxCell>
       </root>

@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hZIY7Ii512UDRIdQNu9k-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="260" as="targetPoint" />
-            <mxPoint x="415" y="180" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hZIY7Ii512UDRIdQNu9k-13" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;熔盐体系：&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;LiCl-KCl-UCl&lt;sub style=&quot;&quot;&gt;3&lt;/sub&gt;(2-5wt.% UCl&lt;sub style=&quot;&quot;&gt;3&lt;/sub&gt;)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="415" y="180" width="145" height="40" as="geometry" />
         </mxCell>
@@ -18,6 +12,9 @@
         </mxCell>
         <mxCell id="HMZDm1mIi_Tr_Qu3qUHL-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;熔盐电还原中阴极形状对铀沉积成核及枝晶生长影响&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="250" y="150" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HMZDm1mIi_Tr_Qu3qUHL-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

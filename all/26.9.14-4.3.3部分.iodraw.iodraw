@@ -111,7 +111,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SENayKgU_LFa_miVkuU0-62" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="532" y="331" width="50" height="146" as="geometry" />
+          <mxGeometry x="519.35" y="325.05" width="26.3" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="SENayKgU_LFa_miVkuU0-63" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="529.35" y="335.05" width="26.3" height="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -147,8 +147,8 @@
         <mxCell id="QcULzz9dhnA0sgoNxnwn-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="364.5" y="504.5" width="19" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="QcULzz9dhnA0sgoNxnwn-34" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;分析还原产物微观晶体结构&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;判断择优生长晶向&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;选择典型枝晶部位扫描(fei全区域分析)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="229" y="610" width="271" height="30" as="geometry" />
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-34" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;分析还原产物微观晶体结构&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;判断择优生长晶向&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;选择典型枝晶部位扫描&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="229" y="610" width="181" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

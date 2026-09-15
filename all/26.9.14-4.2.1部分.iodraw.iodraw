@@ -145,7 +145,10 @@
           <mxGeometry x="410" y="555" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="349" y="520" width="50" height="180" as="geometry" />
+          <mxGeometry x="364.5" y="504.5" width="19" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-34" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;分析电流密度非均匀性对枝晶生长速率&lt;/span&gt;和形态的影响&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;重点观察高电流密度区域枝晶优先生长&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="259" y="610" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -158,8 +158,8 @@
         <mxCell id="SENayKgU_LFa_miVkuU0-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275.25" y="480" width="274.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SENayKgU_LFa_miVkuU0-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="490" width="60" height="30" as="geometry" />
+        <mxCell id="SENayKgU_LFa_miVkuU0-21" value="算法优化循环与协同调控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

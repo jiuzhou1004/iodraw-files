@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Fhj6T0y4t4UcAqnnlVk0">
-    <mxGraphModel dx="527" dy="271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="443" dy="228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,19 +130,22 @@
           <mxGeometry x="260" y="530" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-28" value="EBSD测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="575" width="80" height="25" as="geometry" />
+          <mxGeometry x="240" y="560" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-29" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="570" width="30" height="30" as="geometry" />
+          <mxGeometry x="320" y="555" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-30" value="SEM测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="575" width="60" height="25" as="geometry" />
+          <mxGeometry x="350" y="560" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-31" value="SEM测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="575" width="60" height="25" as="geometry" />
+          <mxGeometry x="440" y="560" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="QcULzz9dhnA0sgoNxnwn-32" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;+&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="570" width="30" height="30" as="geometry" />
+          <mxGeometry x="410" y="555" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QcULzz9dhnA0sgoNxnwn-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="540" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

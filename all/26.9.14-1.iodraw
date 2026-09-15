@@ -49,7 +49,7 @@
         <mxCell id="s41WXMUPLXUgxwe3cWYC-9" value="氯化物添加剂" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="369" y="240" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s41WXMUPLXUgxwe3cWYC-10" value="Ag/AgCl" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="s41WXMUPLXUgxwe3cWYC-10" value="调整添加剂含量" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="469" y="240" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-16" value="计时电流法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">

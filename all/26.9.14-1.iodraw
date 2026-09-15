@@ -45,13 +45,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-8" value="工作阴极基体&lt;div&gt;W、Mo、316L&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="260" y="260" width="100" height="30" as="geometry" />
+          <mxGeometry x="260" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-9" value="液态镉/惰性金属" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="369" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="369" y="240" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-10" value="Ag/AgCl" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="470" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="469" y="240" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s41WXMUPLXUgxwe3cWYC-16" value="计时电流法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="220" y="330" width="80" height="20" as="geometry" />

@@ -400,7 +400,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cyfDLouVVBsOcKwqYPec-15" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Reduce NO&lt;sub style=&quot;font-size: 15px;&quot;&gt;x&lt;/sub&gt; gas emissions by 50.97%&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontColor=#009900;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="cyfDLouVVBsOcKwqYPec-15" value="The capture efficiency of the migrating nitrogen salt phase increased by 50.97%" style="text;whiteSpace=wrap;html=1;align=center;fontColor=#009900;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="305.66" y="580" width="335.44" height="30" as="geometry" />
         </mxCell>
       </root>

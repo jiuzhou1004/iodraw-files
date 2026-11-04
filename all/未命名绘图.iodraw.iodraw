@@ -63,8 +63,8 @@
         <mxCell id="bxvucXxQKVc4ubVnE1mA-21" value="&lt;b&gt;载铀树脂淋洗&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="180" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bxvucXxQKVc4ubVnE1mA-23" value="&lt;span style=&quot;font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;硫酸+氧化剂&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="340" y="86" width="70" height="10" as="geometry" />
+        <mxCell id="bxvucXxQKVc4ubVnE1mA-23" value="&lt;span style=&quot;font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;树脂循环使用&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="430" y="66" width="70" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

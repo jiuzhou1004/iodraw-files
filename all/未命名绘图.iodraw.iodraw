@@ -8,25 +8,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-1" value="&lt;b&gt;矿石开采&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 10px;&quot;&gt;破碎与磨矿&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="110" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxvucXxQKVc4ubVnE1mA-2" target="bxvucXxQKVc4ubVnE1mA-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="125" as="targetPoint" />
+            <mxPoint x="420" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-2" value="&lt;b&gt;硫酸浸出&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="110" width="70" height="30" as="geometry" />
+          <mxGeometry x="310" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bxvucXxQKVc4ubVnE1mA-4" target="bxvucXxQKVc4ubVnE1mA-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-4" value="&lt;span style=&quot;font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;硫酸+氧化剂&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="76" width="70" height="10" as="geometry" />
+          <mxGeometry x="310" y="76" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bxvucXxQKVc4ubVnE1mA-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="455.20000000000005" y="160" as="targetPoint" />
+            <mxPoint x="445.20000000000005" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bxvucXxQKVc4ubVnE1mA-9" target="bxvucXxQKVc4ubVnE1mA-18">
@@ -35,10 +35,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-9" value="&lt;b&gt;固液分离&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="110" width="70" height="30" as="geometry" />
+          <mxGeometry x="410" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-16" value="&lt;font color=&quot;#4d4d4d&quot;&gt;浸出渣管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="160" width="70" height="20" as="geometry" />
+          <mxGeometry x="410" y="160" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.482;entryY=-0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bxvucXxQKVc4ubVnE1mA-21">
           <mxGeometry relative="1" as="geometry">

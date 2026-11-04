@@ -87,7 +87,7 @@
           <mxGeometry x="517.5" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-33" value="&lt;b&gt;铀浓缩产物&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="250" width="70" height="30" as="geometry" />
+          <mxGeometry x="400" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-34" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;破损/性能衰减&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;退出使用&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="220" width="70" height="20" as="geometry" />

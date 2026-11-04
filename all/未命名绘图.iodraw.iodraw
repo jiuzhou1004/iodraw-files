@@ -24,6 +24,11 @@
         <mxCell id="bxvucXxQKVc4ubVnE1mA-4" value="&lt;span style=&quot;font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;硫酸+氧化剂&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="76" width="70" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="bxvucXxQKVc4ubVnE1mA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bxvucXxQKVc4ubVnE1mA-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455.20000000000005" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-9" value="&lt;b&gt;固液分离&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="110" width="70" height="30" as="geometry" />
         </mxCell>

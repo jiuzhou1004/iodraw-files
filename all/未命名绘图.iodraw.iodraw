@@ -40,8 +40,16 @@
         <mxCell id="bxvucXxQKVc4ubVnE1mA-16" value="&lt;font color=&quot;#4d4d4d&quot;&gt;浸出渣管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="160" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="bxvucXxQKVc4ubVnE1mA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bxvucXxQKVc4ubVnE1mA-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550.1428571428571" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-18" value="&lt;b&gt;阴离子树脂&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot; style=&quot;font-size: 9px;&quot;&gt;季铵型强碱树脂&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="105" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bxvucXxQKVc4ubVnE1mA-21" value="&lt;b&gt;固液分离&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="190" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -60,6 +60,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="bxvucXxQKVc4ubVnE1mA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bxvucXxQKVc4ubVnE1mA-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="552.4285714285713" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-21" value="&lt;b&gt;载铀树脂淋洗&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="190" width="75" height="30" as="geometry" />
         </mxCell>
@@ -80,6 +85,9 @@
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-31" value="&lt;b&gt;铀浓缩产物&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="291" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bxvucXxQKVc4ubVnE1mA-33" value="&lt;b&gt;铀浓缩产物&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="260" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

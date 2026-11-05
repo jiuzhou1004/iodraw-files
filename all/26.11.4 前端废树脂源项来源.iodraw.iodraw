@@ -15,7 +15,7 @@
             <mxPoint x="420" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bxvucXxQKVc4ubVnE1mA-2" value="&lt;b&gt;硫酸浸出&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bxvucXxQKVc4ubVnE1mA-2" value="&lt;b&gt;硫酸浸出&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="310" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bxvucXxQKVc4ubVnE1mA-4" target="bxvucXxQKVc4ubVnE1mA-2" edge="1">
@@ -77,7 +77,7 @@
         <mxCell id="bxvucXxQKVc4ubVnE1mA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bxvucXxQKVc4ubVnE1mA-25" target="bxvucXxQKVc4ubVnE1mA-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bxvucXxQKVc4ubVnE1mA-25" value="&lt;b&gt;淋洗液净化及铀回收&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="bxvucXxQKVc4ubVnE1mA-25" value="&lt;b&gt;淋洗液净化及铀回收&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="413.5" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bxvucXxQKVc4ubVnE1mA-27" target="bxvucXxQKVc4ubVnE1mA-28" edge="1">

@@ -37,7 +37,7 @@
         <mxCell id="bxvucXxQKVc4ubVnE1mA-9" value="&lt;b&gt;固液分离&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="110" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bxvucXxQKVc4ubVnE1mA-16" value="&lt;font color=&quot;#4d4d4d&quot;&gt;浸出渣管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bxvucXxQKVc4ubVnE1mA-16" value="&lt;font color=&quot;#4d4d4d&quot;&gt;浸出渣处理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="160" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bxvucXxQKVc4ubVnE1mA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.482;entryY=-0.088;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="bxvucXxQKVc4ubVnE1mA-21" edge="1">

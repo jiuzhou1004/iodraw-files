@@ -121,8 +121,8 @@
         <mxCell id="bxvucXxQKVc4ubVnE1mA-42" value="&lt;b&gt;废液净化处理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="407.5" y="260" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TACV5A8kmT-y6LfXZQ66-1" value="&lt;font color=&quot;#3399ff&quot;&gt;调节pH升高&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="306" y="165" width="70" height="30" as="geometry" />
+        <mxCell id="TACV5A8kmT-y6LfXZQ66-1" value="&lt;font color=&quot;#3399ff&quot;&gt;加入氨水调节pH&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="294" y="165" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TACV5A8kmT-y6LfXZQ66-3" value="&lt;font color=&quot;#b266ff&quot; style=&quot;font-size: 11px;&quot;&gt;母液及洗涤液&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="263" y="217" width="70" height="30" as="geometry" />
